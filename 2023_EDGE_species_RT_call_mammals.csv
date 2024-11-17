@@ -1,0 +1,641 @@
+RL.ID,Family,Species,Common.name,RL.cat,Distribution.code,Distribution.name
+3339,Burramyidae,Burramys parvus,Mountain Pygmy Possum,CR,AU,Australia
+6302,Daubentoniidae,Daubentonia madagascariensis,Aye-aye,EN,MG,Madagascar
+9564,Petauridae,Gymnobelideus leadbeateri,Leadbeater's Possum,CR,AU,Australia
+10714,Nesomyidae,Hypogeomys antimena,Malagasy Giant Jumping Rat,CR,MG,Madagascar
+14222,Myrmecobiidae,Myrmecobius fasciatus,Numbat,EN,AU,Australia
+136497,Manidae,Manis culionensis,Philippine Pangolin,CR,PH,Philippines
+12764,Manidae,Manis pentadactyla,Chinese Pangolin,CR,"BD, BT, CN, HK, IN, LA, MM, NP, TH, TW, VN","Bangladesh, Bhutan, China, Hong Kong, India, Lao People's Democratic Republic, Myanmar, Nepal, Thailand, Taiwan, Province of China, Viet Nam"
+12763,Manidae,Manis javanica,Sunda Pangolin,CR,"BN, ID, KH, LA, MM, MY, SG, TH, VN","Brunei Darussalam, Indonesia, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Singapore, Thailand, Viet Nam"
+181008073,Elephantidae,Loxodonta africana,African Savanna Elephant,EN,NA,"Angola; Botswana; Cameroon; Central African Republic; Chad; Congo, The Democratic Republic of the; Eritrea; Ethiopia; Kenya; Malawi; Mali; Mozambique; Namibia; Nigeria; Rwanda; Somalia; South Africa; South Sudan; Tanzania, United Republic of; Uganda; Zambia; Zimbabwe"
+14260,Mystacinidae,Mystacina robusta,New Zealand Greater Short-tailed Bat,CR,NZ,New Zealand
+181007989,Elephantidae,Loxodonta cyclotis,African Forest Elephant,CR,NA,NA
+6553,Rhinocerotidae,Dicerorhinus sumatrensis,Sumatran Rhinoceros,CR,ID,Indonesia
+20332,Soricidae,Solisorex pearsoni,Pearson's Long-clawed Shrew,EN,LK,Sri Lanka
+714,Ailuridae,Ailurus fulgens,Red Panda,EN,"BT, CN, IN, MM, NP","Bhutan, China, India, Myanmar, Nepal"
+22920,Lemuridae,Varecia rubra,Red Ruffed Lemur,CR,MG,Madagascar
+22918,Lemuridae,Varecia variegata,Black-and-white Ruffed Lemur,CR,MG,Madagascar
+12761,Manidae,Manis crassicaudata,Indian Pangolin,EN,"BD, IN, LK, NP, PK","Bangladesh, India, Sri Lanka, Nepal, Pakistan"
+10826,Indriidae,Indri indri,Indri,CR,MG,Madagascar
+12646,Nesomyidae,Macrotarsomys ingens,Long-tailed Big-footed Mouse,EN,MG,Madagascar
+18655,Pteropodidae,Mirimiri acrodonta,Fijian Monkey-faced Bat,CR,FJ,Fiji
+23179,Tachyglossidae,Zaglossus bruijni,Western Long-beaked Echidna,CR,ID,Indonesia
+136322,Tachyglossidae,Zaglossus attenboroughi,Sir David's Long-beaked Echidna,CR,ID,Indonesia
+12119,Lipotidae,Lipotes vexillifer,Yangtze River Dolphin,CR,CN,China
+14261,Mystacinidae,Mystacina tuberculata,New Zealand Lesser Short-tailed Bat,VU,NZ,New Zealand
+10588,Erinaceidae,Neohylomys hainanensis,Hainan Gymnure,EN,CN,China
+3326,Leporidae,Bunolagus monticularis,Riverine Rabbit,CR,ZA,South Africa
+21972,Muridae,Tokudaia muenninki,Okinawa Spiny Rat,CR,JP,Japan
+121097935,Hominidae,Pongo abelii,Sumatran Orangutan,CR,ID,Indonesia
+17975,Hominidae,Pongo pygmaeus,Bornean Orangutan,CR,"ID, MY","Indonesia, Malaysia"
+8826,Talpidae,Galemys pyrenaicus,Pyrenean Desman,EN,"AD, ES, FR, PT","Andorra, Spain, France, Portugal"
+181007989,Elephantidae,Loxodonta cyclotis,Forest Elephant,CR,,"Angola; Benin; Burkina Faso; Cameroon; Central African Republic; Congo; Congo, The Democratic Republic of the; Côte d'Ivoire; Equatorial Guinea; Gabon; Ghana; Guinea; Guinea-Bissau; Liberia; Niger; Nigeria; Senegal; Sierra Leone; South Sudan; Tog"
+18597,Bovidae,Pseudoryx nghetinhensis,Saola,CR,"LA, VN","Lao People's Democratic Republic, Viet Nam"
+41756,Platanistidae,Platanista gangetica,South Asian River Dolphin,EN,"BD, IN, NP, PK","Bangladesh, India, Nepal, Pakistan"
+19832,Bovidae,Saiga tatarica,Saiga,CR,"KZ, MN, RU, TM, UZ","Kazakhstan, Mongolia, Russian Federation, Turkmenistan, Uzbekistan"
+12650,Thylacomyidae,Macrotis lagotis,Bilby,VU,AU,Australia
+6506,Talpidae,Desmana moschata,Russian Desman,EN,"KZ, RU, UA","Kazakhstan, Russian Federation, Ukraine"
+16892,Phascolarctidae,Phascolarctos cinereus,Koala,VU,AU,Australia
+6557,Rhinocerotidae,Diceros bicornis,Black Rhino,CR,"AO, KE, MZ, NA, TZ, ZA, ZW","Angola, Kenya, Mozambique, Namibia, Tanzania, United Republic of, South Africa, Zimbabwe"
+19495,Rhinocerotidae,Rhinoceros sondaicus,Javan Rhinoceros,CR,ID,Indonesia
+41576,Cheirogaleidae,Cheirogaleus sibreei,Sibree's Dwarf Lemur,CR,MG,Madagascar
+11374,Pteropodidae,Latidens salimalii,Salim Ali's Fruit Bat,EN,IN,India
+10032,Hippopotamidae,Choeropsis liberiensis,Pygmy Hippopotamus,EN,"CI, GN, LR, SL","Côte d'Ivoire, Guinea, Liberia, Sierra Leon"
+741,Cricetidae,Neomicroxus latebricola,Ecuadorean Grass Mouse,EN,EC,Ecuador
+6985,Echimyidae,Callistomys pictus,Painted Tree-rat,EN,BR,Brazil
+5529,Cricetidae,Cricetus cricetus,Common Hamster,CR,"AT, BE, BG, BY, CH, CZ, DE, FR, HU, KZ, MD, NL, PL, RO, RS, RU, SI, SK, UA","Austria, Belgium, Bulgaria, Belarus, Switzerland, Czechia, Germany, France, Hungary, Kazakhstan, Moldova, Republic of, Netherlands, Poland, Romania, Serbia, Russian Federation, Slovenia, Slovakia, Ukraine"
+16673,Cricetidae,Peromyscus mayensis,Mayan Deer Mouse,CR,GT,Guatemala
+6313,Nesomyidae,Delanymys brooksi,Delany's Swamp Mouse,VU,"BI, CD, RW, UG","Burundi, Congo, The Democratic Republic of the, Rwanda, Uganda"
+18107,Potoroidae,Potorous gilbertii,Gilbert's Potoroo,CR,AU,Australia
+21472,Tapiridae,Acrocodia indicus,Malay Tapir,EN,"ID, MM, MY, TH","Indonesia, Myanmar, Malaysia, Thailand"
+868,Cheirogaleidae,Allocebus trichotis,Hairy-eared Dwarf Lemur,EN,MG,Madagascar
+6664,Echimyidae,Santamartamys rufodorsalis,Red Crested Tree Rat,CR,CO,Colombia
+16138,Dasyuridae,Parantechinus apicalis,Dibbler,EN,AU,Australia
+61925,Bradypodidae,Bradypus pygmaeus,Pygmy Three-toed Sloth,CR,PA,Panama
+10103,Hippopotamidae,Hippopotamus amphibius,Hippopotamus,VU,"AO, BF, BI, BJ, BW, CD, CF, CG, CI, CM, ET, GA, GH, GM, GN, GQ, GW, KE, ML, MW, MZ, NA, NE, NG, RW, SD, SL, SN, SO, SS, SZ, TD, TG, TZ, UG, ZA, ZM, ZW","Angola, Burkina Faso, Burundi, Benin, Botswana, Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, Ethiopia, Gabon, Ghana, Gambia, Guinea, Equatorial Guinea, Guinea-Bissau, Kenya, Mali, Malawi, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sudan, Sierra Leone, Senegal, Somalia, South Sudan, Eswatini, Chad, Togo, Tanzania, United Republic of, Uganda, South Africa, Zambia, Zimbabw"
+16559,Leporidae,Pentalagus furnessi,Amami Rabbit,EN,JP,Japan
+41291,Leporidae,Oryctolagus cuniculus,European Rabbit,EN,"ES, FR, PT","Spain, France, Portugal"
+3833,Leporidae,Caprolagus hispidus,Hispid Hare,EN,"BT, IN, NP","Bhutan, India, Nepal"
+17460,Capromyidae,Plagiodontia aedium,Cuvier's Hutia,EN,"DO, HT","Dominican Republic, Haiti"
+39994,Hominidae,Gorilla beringei,Eastern Gorilla,CR,"CD, RW, UG","Congo, The Democratic Republic of the, Rwanda, Uganda"
+9404,Hominidae,Gorilla gorilla,Western Gorilla,CR,"AO, CF, CG, CM, GA, GQ, NG","Angola, Central African Republic, Congo, Cameroon, Gabon, Equatorial Guinea, Nigeria"
+12762,Manidae,Smutsia gigantea,Giant Ground Pangolin,EN,"CD, CF, CG, CI, CM, GA, GH, GN, GQ, GW, LR, NG, RW, SL, SN, SS, TZ, UG","Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, Gabon, Ghana, Guinea, Equatorial Guinea, Guinea-Bissau, Liberia, Nigeria, Rwanda, Sierra Leone, Senegal, South Sudan, Tanzania, United Republic of, Ugand"
+4366,Erethizontidae,Chaetomys subspinosus,Bristle-spined Rat,VU,BR,Brazil
+6295,Dasyuridae,Dasyurus hallucatus,Northern Quoll,EN,AU,Australia
+18,Abrocomidae,Abrocoma boliviensis,Bolivian Chinchilla Rat,CR,BO,"Bolivia, Plurinational State of"
+17481,Platacanthomyidae,Platacanthomys lasiurus,Malabar Spiny Tree Mouse,VU,IN,India
+21973,Muridae,Tokudaia osimensis,Ryukyu Spiny Rat,EN,JP,Japan
+136695,Muridae,Tokudaia tokunoshimensis,Tokunoshima Spiny Rat ,EN,JP,Japan
+15188,Giraffidae,Okapia johnstoni,Okapi,EN,CD,"Congo, The Democratic Republic of the"
+9608,Cricetidae,Habromys chinanteco,Chinanteco Deer Mouse,CR,MX,Mexico
+9611,Cricetidae,Habromys simulatus,Jico Deer Mouse,CR,MX,Mexico
+136468,Cricetidae,Microakodontomys transitorius,Transitional Colilargo,EN,BR,Brazil
+18711,Mustelidae,Pteronura brasiliensis,Giant Otter,EN,"BO, BR, CO, EC, GF, GY, PE, PY, SR, VE","Bolivia, Plurinational State of, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Paraguay, Suriname, Venezuela, Bolivarian Republic of"
+9674,Lemuridae,Prolemur simus,Greater Bamboo Lemur,CR,MG,Madagascar
+19711,Peramelidae,Rhynchomeles prattorum,Seram Bandicoot,EN,ID,Indonesia
+136274,Echimyidae,Phyllomys mantiqueirensis,Mantiqueira Atlantic Tree Rat,CR,BR,Brazil
+136552,Tachyglossidae,Zaglossus bartoni,Eastern Long-beaked Echidna,VU,"ID, PG","Indonesia, Papua New Guinea"
+63543,Camelidae,Camelus bactrianus,Bactrian Camel,CR,"CN, MN","China, Mongolia"
+40540,Dasyuridae,Sarcophilus harrisii,Tasmanian Devil,EN,AU,Australia
+21142,Soricidae,Suncus dayi,Day's Shrew,EN,IN,India
+6082,Viverridae,Cynogale bennettii,Otter Civet,EN,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+23115,Cricetidae,Xenomys nelsoni,Magdelena Wood Rat,EN,MX,Mexico
+7140,Elephantidae,Elephas maximus,Asian Elephant,EN,"BD, BT, CN, ID, IN, KH, LA, LK, MM, MY, NP, TH, VN","Bangladesh, Bhutan, China, Indonesia, India, Cambodia, Lao People's Democratic Republic, Sri Lanka, Myanmar, Malaysia, Nepal, Thailand, Viet Nam"
+23323,Geomyidae,Zygogeomys trichopus,Michoacan Pocket Gopher,EN,MX,Mexico
+16726,Petauridae,Petaurus abidi,Northern Glider,CR,PG,Papua New Guinea
+3036,Bradypodidae,Bradypus torquatus,Maned Three-toed Sloth,VU,BR,Brazil
+12767,Manidae,Phataginus tricuspis,White-bellied Pangolin,EN,"AO, BI, BJ, CD, CF, CG, CI, CM, GA, GH, GN, GQ, GW, KE, LR, NG, RW, SL, SS, TG, TZ, UG, ZM","Angola, Burundi, Benin, Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, Gabon, Ghana, Guinea, Equatorial Guinea, Guinea-Bissau, Kenya, Liberia, Nigeria, Rwanda, Sierra Leone, South Sudan, Togo, Tanzania, United Republic of, Uganda, Zambi"
+7949,Equidae,Equus africanus,African Wild Ass,CR,"ER, ET","Eritrea, Ethiopia"
+136557,Octodontidae,Pipanacoctomys aureus,Golden Vizcacha Rat,CR,AR,Argentina
+8269,Sciuridae,Eupetaurus cinereus,Woolly Flying Squirrel,EN,PK,Pakistan
+41712,Balaenidae,Eubalaena glacialis,North Atlantic Right Whale,CR,"BM, CA, GL, IS, NO, PM, PT, US","Bermuda, Canada, Greenland, Iceland, Norway, Saint Pierre and Miquelon, Portugal, United States of America"
+136414,Echimyidae,Trinomys yonenagae,NA,EN,BR,Brazil
+11171,Macropodidae,Lagostrophus fasciatus,Banded Hare Wallaby,VU,AU,Australia
+10591,Muridae,Hylomyscus baeri,Baer's Wood Mouse,EN,"CI, GH, GN, SL","Côte d'Ivoire, Ghana, Guinea, Sierra Leon"
+12273,Phyllostomidae,Lonchorhina orinocensis,Orinoco Sword-nosed Bat,VU,"CO, VE","Colombia, Venezuela, Bolivarian Republic of"
+19496,Rhinocerotidae,Rhinoceros unicornis,Greater One-horned Rhino,VU,"IN, NP","India, Nepal"
+6439,Nesomyidae,Dendromus kahuziensis,Mt. Kahuzi Climbing Mouse,CR,CD,"Congo, The Democratic Republic of the"
+9609,Cricetidae,Habromys lepturus,Slender-tailed Deer Mouse,CR,MX,Mexico
+18144,Chlamyphoridae,Priodontes maximus,Giant Armadillo,VU,"AR, BO, BR, CO, EC, GF, GY, PE, PY, SR, VE","Argentina, Bolivia, Plurinational State of, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Paraguay, Suriname, Venezuela, Bolivarian Republic of"
+8553,Soricidae,Feroculus feroculus,Kelaart's Long-clawed Shrew,EN,"IN, LK","India, Sri Lanka"
+18492,Pseudocheiridae,Pseudocheirus occidentalis,Western Ringtail Possum,CR,AU,Australia
+136582,Cricetidae,Habromys ixtlani,Ixtlán Deer Mous,CR,MX,Mexico
+20229,Cercopithecidae,Simias concolor,Pig-tailed Snub-nosed Langur,CR,ID,Indonesia
+39826,Cercopithecidae,Pygathrix nemaeus,Red-shanked Douc Langur,CR,"KH, LA, VN","Cambodia, Lao People's Democratic Republic, Viet Nam"
+39828,Cercopithecidae,Pygathrix nigripes,Black-shanked Douc Langur,CR,"KH, VN","Cambodia, Viet Nam"
+12590,Megadermatidae,Macroderma gigas,Ghost Bat,VU,AU,Australia
+80263386,Megadermatidae,Eudiscoderma thongareeae,Thongaree’s Disc-nosed B,CR,TH,Thailand
+14224,Myrmecophagidae,Myrmecophaga tridactyla,Giant Anteater,VU,"AR, BO, BR, CO, CR, EC, GF, GY, HN, NI, PA, PE, PY, SR, VE","Argentina, Bolivia, Plurinational State of, Brazil, Colombia, Costa Rica, Ecuador, French Guiana, Guyana, Honduras, Nicaragua, Panama, Peru, Paraguay, Suriname, Venezuela, Bolivarian Republic of"
+14262,Nesomyidae,Mystromys albicaudatus,White-tailed Rat,VU,"LS, ZA","Lesotho, South Africa"
+11202,Muridae,Lamottemys okuensis,Mount Oku Rat,EN,CM,Cameroon
+2890,Bovidae,Bos sauveli,Kouprey,CR,"KH, LA","Cambodia, Lao People's Democratic Republic"
+39924,Atelidae,Lagothrix flavicauda,Peruvian Yellow-tailed Woolly Monkey,CR,PE,Peru
+12765,Manidae,Smutsia temminckii,Temminck's Pangolin,VU,"AO, BI, BW, CF, ET, KE, MW, MZ, NA, RW, SD, SS, TD, TZ, UG, ZA, ZM, ZW","Angola, Burundi, Botswana, Central African Republic, Ethiopia, Kenya, Malawi, Mozambique, Namibia, Rwanda, Sudan, South Sudan, Chad, Tanzania, United Republic of, Uganda, South Africa, Zambia, Zimbabwe"
+4806,Viverridae,Chrotogale owstoni,Owston's Civet,EN,"LA, VN","Lao People's Democratic Republic, Viet Nam"
+16887,Vespertilionidae,Pharotis imogene,Thomas's Big-eared Bat,CR,PG,Papua New Guinea
+10123,Hipposideridae,Hipposideros coxi,Cox's Leaf-nosed Bat,EN,MY,Malaysia
+19454,Cricetidae,Rhagomys rufescens,Brazilian Arboreal Mouse,VU,BR,Brazil
+4015,Tayassuidae,Catagonus wagneri,Chacoan Peccary,EN,"AR, BO, PY","Argentina, Bolivia, Plurinational State of, Paraguay"
+19749,Pteropodidae,Boneia bidens,Manado Rousette,VU,ID,Indonesia
+1933,Pteropodidae,Aproteles bulmerae,Bulmer's Fruit Bat,CR,PG,Papua New Guinea
+20958,Phyllostomidae,Sturnira nana,Lesser Yellow-shouldered Bat,EN,"EC, PE","Ecuador, Peru"
+16710,Peramelidae,Peroryctes broadbenti,Giant Bandicoot,EN,PG,Papua New Guinea
+4648,Soricidae,Crossogale phaeura,Bornean Water Shrew,EN,MY,Malaysia
+6676,Heteromyidae,Dipodomys gravipes,San Quintin Kangaroo Rat,CR,MX,Mexico
+9672,Lemuridae,Hapalemur aureus,Golden Bamboo Lemur,CR,MG,Madagascar
+20320,Solenodontidae,Atopogale cubana,Cuban Solenodon,EN,CU,Cuba
+6234,Bovidae,Beatragus hunteri,Hirola,CR,KE,Kenya
+136491,Lepilemuridae,Lepilemur jamesorum,James' Sportive Lemur,CR,MG,Madagascar
+40766,Muridae,Nilopegamys plumbeus,Ethiopian Amphibious Rat,CR,ET,Ethiopia
+136343,Soricidae,Congosorex phillipsorum,Phillips’ Congo Shr,CR,TZ,"Tanzania, United Republic of"
+7750,Mustelidae,Enhydra lutris,Sea Otter,EN,"CA, JP, MX, RU, US","Canada, Japan, Mexico, Russian Federation, United States of America"
+21471,Tapiridae,Tapirella bairdii,Baird's Tapir,EN,"BZ, CO, CR, GT, HN, MX, NI, PA","Belize, Colombia, Costa Rica, Guatemala, Honduras, Mexico, Nicaragua, Panama"
+29484,Vespertilionidae,Myotis yanbarensis,Yanbaru Whiskered Bat,CR,JP,Japan
+18658,Pteropodidae,Pteralopex pulchra,Montane Monkey-faced Bat,CR,SB,Solomon Islands
+39827,Cercopithecidae,Pygathrix cinerea,Grey-shanked Douc Langur,CR,VN,Viet Nam
+17366,Vespertilionidae,Perimyotis subflavus,Eastern Pipistrelle,VU,"BZ, CA, GT, HN, MX, US","Belize, Canada, Guatemala, Honduras, Mexico, United States of America"
+19742,Leporidae,Romerolagus diazi,Volcano Rabbit,EN,MX,Mexico
+136587,Pteropodidae,Pteralopex flanneryi,Greater Monkey-faced Bat,CR,"PG, SB","Papua New Guinea, Solomon Islands"
+12766,Manidae,Phataginus tetradactyla,Black-bellied Pangolin,VU,"CD, CF, CG, CI, CM, GA, GH, GN, GQ, LR, NG, SL","Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, Gabon, Ghana, Guinea, Equatorial Guinea, Liberia, Nigeria, Sierra Leon"
+11697,Phyllostomidae,Leptonycteris nivalis,Greater Long-nosed Bat,EN,"MX, US","Mexico, United States of America"
+5587,Soricidae,Crocidura wimmeri,Wimmer's Shrew,CR,CI,Côte d'Ivoir
+20293,Dasyuridae,Sminthopsis psammophila,Sandhill Dunnart,VU,AU,Australia
+11496,Lemuridae,Lemur catta,Ring-tailed Lemur,EN,MG,Madagascar
+6265,Dasyuridae,Dasyuroides byrnei,Kowari,VU,AU,Australia
+14192,Vespertilionidae,Myotis pruinosus,Frosted Myotis,EN,JP,Japan
+16683,Cricetidae,Peromyscus ochraventer,El Carrizo Deer Mouse,EN,MX,Mexico
+84562293,Vespertilionidae,Murina harpioloides,Dalat Tube-nosed Bat,EN,VN,Viet Nam
+5748,Chrysochloridae,Cryptochloris wintoni,De Winton's Golden Mole,CR,ZA,South Africa
+14352,Cercopithecidae,Nasalis larvatus,Proboscis Monkey,EN,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+2993,Atelidae,Brachyteles arachnoides,Southern Muriqui,CR,BR,Brazil
+19401,Cricetidae,Reithrodontomys raviventris,Salt-marsh Harvest Mouse,EN,US,United States of America
+2994,Atelidae,Brachyteles hypoxanthus,Northern Muriqui,CR,BR,Brazil
+5588,Soricidae,Crocidura zimmermanni,Zimmermann's Shrew,EN,GR,Greece
+6435,Macropodidae,Dendrolagus scottae,Tenkile,CR,PG,Papua New Guinea
+6909,Dugongidae,Dugong dugon,Dugong,VU,"AE, AU, BH, BN, CC, CN, DJ, EG, ER, ID, IN, JO, JP, KE, KH, KM, LK, MG, MY, MZ, NC, PG, PH, PW, QA, SA, SB, SC, SD, SG, SO, TH, TL, TZ, VN, VU, YE, YT","United Arab Emirates, Australia, Bahrain, Brunei Darussalam, Cocos (Keeling) Islands, China, Djibouti, Egypt, Eritrea, Indonesia, India, Jordan, Japan, Kenya, Cambodia, Comoros, Sri Lanka, Madagascar, Malaysia, Mozambique, New Caledonia, Papua New Guinea, Philippines, Palau, Qatar, Saudi Arabia, Solomon Islands, Seychelles, Sudan, Singapore, Somalia, Thailand, Timor-Leste, Tanzania, United Republic of, Viet Nam, Vanuatu, Yemen, Mayotte"
+19595,Cercopithecidae,Rhinopithecus brelichi,Grey Snub-nosed Monkey,CR,CN,China
+18703,Sciuridae,Pteromyscus pulverulentus,Smoky Flying Squirrel,EN,"BN, ID, MY, TH","Brunei Darussalam, Indonesia, Malaysia, Thailand"
+136218,Phalangeridae,Ailurops melanotis,Talaud Bear Cuscus,CR,ID,Indonesia
+13584,Cheirogaleidae,Mirza coquereli,Coquerel's Giant Mouse Lemur,EN,MG,Madagascar
+136668,Macropodidae,Dendrolagus mayri,Wondiwoi Tree-kangaroo,CR,ID,Indonesia
+2531,Emballonuridae,Balantiopteryx infusca,Ecuadorian Sac-winged Bat,VU,"CO, EC","Colombia, Ecuador"
+13654,Phocidae,Neomonachus schauinslandi,Hawaiian Monk Seal,EN,US,United States of America
+41755,Physeteridae,Physeter macrocephalus,Sperm Whale,VU,"AG, AL, AO, AQ, AR, AU, BB, BD, BE, BJ, BN, BQ, BR, BS, BZ, CA, CL, CM, CN, CO, CR, CV, CW, CY, DJ, DK, DM, DO, DZ, EC, EG, ES, FJ, FK, FM, FO, FR, GA, GB, GD, GH, GI, GL, GM, GN, GQ, GR, GT, GW, GY, HN, HR, HT, ID, IE, IL, IN, IR, IS, IT, JM, JP, KE, KI, KM, KN, KP, KR, LB, LC, LK, LR, LY, MA, MC, MF, MG, MH, MR, MT, MU, MV, MX, MY, MZ, NA, NG, NI, NL, NO, NR, NU, NZ, OM, PA, PE, PG, PH, PK, PT, PW, RU, SB, SC, SG, SH, SI, SL, SN, SO, SR, ST, SV, SX, SY, TG, TH, TL, TN, TO, TR, TT, TV, TW, TZ, US, UY, VC, VE, VN, VU, WS, YE, ZA","Antigua and Barbuda, Albania, Angola, Antarctica, Argentina, Australia, Barbados, Bangladesh, Belgium, Benin, Brunei Darussalam, Bonaire, Sint Eustatius and Saba, Brazil, Bahamas, Belize, Canada, Chile, Cameroon, China, Colombia, Costa Rica, Cabo Verde, Curaçao, Cyprus, Djibouti, Denmark, Dominica, Dominican Republic, Algeria, Ecuador, Egypt, Spain, Fiji, Falkland Islands (Malvinas), Micronesia, Federated States of , Faroe Islands, France, Gabon, United Kingdom of Great Britain and Northern Ireland, Grenada, Ghana, Gibraltar, Greenland, Gambia, Guinea, Equatorial Guinea, Greece, Guatemala, Guinea-Bissau, Guyana, Honduras, Croatia, Haiti, Indonesia, Ireland, Israel, India, Iran, Islamic Republic of, Iceland, Italy, Jamaica, Japan, Kenya, Kiribati, Comoros, Saint Kitts and Nevis, Korea, Democratic People's Republic of, Korea, Republic of, Lebanon, Saint Lucia, Sri Lanka, Liberia, Libya, Morocco, Monaco, Saint Martin (French part), Madagascar, Marshall Islands, Mauritania, Malta, Mauritius, Maldives, Mexico, Maaysia, Mozambique, Namibia, Nigeria, Nicaragua, Netherlands, Norway, Nauru, Niue, New Zealand, Oman, Panama, Peru, Papua New Guinea, Philippines, Pakistan, Portugal, Palau, Russian Federation, Solomon Islands, Seychelles, Singapore, Saint Helena, Ascension and Tristan da Cunha, Slovenia, Sierra Leone, Senegal, Somalia, Suriname, Sao Tome and Principe, El Salvador, Sint Maarten (Dutch part), Syrian Arab Republic, Togo, Thailand, Timor-Leste, Tunisia, Tonga, Turkey, Trinidad and Tobago, Tuvalu, Taiwan, Province of China, Tanzania, United Republic of, United States of America, Uruguay, Saint Vincent and the Grenadines, Venezuela, Bolivarian Republic of, Viet Nam, Vanuatu, Samoa, Yemen, South Africa"
+12937,Nesomyidae,Megadendromus nikolausi,Nikolaus's Mouse,VU,ET,Ethiopia
+13653,Phocidae,Monachus monachus,Mediterranean Monk Seal,EN,"CY, EH, GR, HR, MR, PT, TR","Cyprus, Western Sahara, Greece, Croatia, Mauritania, Portugal, Turkey"
+2532,Emballonuridae,Balantiopteryx io,Thomas's Sac-winged Bat,VU,"BZ, GT, MX","Belize, Guatemala, Mexico"
+712,Ursidae,Ailuropoda melanoleuca,Giant Panda,VU,CN,China
+18361,Indriidae,Propithecus perrieri,Perrier’s Sifa,CR,MG,Madagascar
+12561,Cercopithecidae,Macaca sylvanus,Barbary Macaque,EN,"DZ, MA","Algeria, Morocco"
+512,Bovidae,Addax nasomaculatus,Addax,CR,"NE, TD","Niger, Chad"
+136696,Macropodidae,Dendrolagus pulcherrimus,Golden-mantled Tree Kangaroo,CR,"ID, PG","Indonesia, Papua New Guinea"
+7669,Emballonuridae,Emballonura semicaudata,Pacific Sheath-tailed Bat,EN,"FJ, FM, MP, PW","Fiji, Micronesia, Federated States of , Northern Mariana Islands, Palau"
+5760,Eupleridae,Cryptoprocta ferox,Fossa,VU,MG,Madagascar
+15046,Ochotonidae,Ochotona koslowi,Kozlov's Pika,EN,CN,China
+18355,Indriidae,Propithecus coquereli,Coquerel's Sifaka,CR,MG,Madagascar
+11622,Lepilemuridae,Lepilemur septentrionalis,Sahafary Sportive Lemur,CR,MG,Madagascar
+12940,Cricetidae,Megadontomys cryophilus,Oaxaca Giant Deer Mouse,EN,MX,Mexico
+18102,Potoroidae,Potorous longipes,Long-footed Potoroo,VU,AU,Australia
+162369551,Tarsiidae,Tarsius tarsier,Spectral Tarsier,VU,ID,Indonesia
+12436,Canidae,Lycaon pictus,African Wild Dog,EN,"AO, BF, BJ, BW, CF, ET, KE, MW, MZ, NA, NE, SD, SN, SS, TD, TZ, ZA, ZM, ZW","Angola, Burkina Faso, Benin, Botswana, Central African Republic, Ethiopia, Kenya, Malawi, Mozambique, Namibia, Niger, Sudan, Senegal, South Sudan, Chad, Tanzania, United Republic of, South Africa, Zambia, Zimbabwe"
+41528,Emballonuridae,Emballonura serii,Seri's Sheath-tailed Bat,VU,"ID, PG","Indonesia, Papua New Guinea"
+18356,Indriidae,Propithecus coronatus,Crowned Sifaka,CR,MG,Madagascar
+16872,Cheirogaleidae,Phaner furcifer,Masoala Fork-marked Lemur,EN,MG,Madagascar
+17173,Phyllostomidae,Phyllonycteris aphylla,Jamaican Flower Bat,CR,JM,Jamaica
+41643,Hylobatidae,Nomascus hainanus,Hainan Gibbon,CR,CN,China
+19594,Cercopithecidae,Rhinopithecus avunculus,Tonkin Snub-nosed Monkey,CR,VN,Viet Nam
+10009,Heteromyidae,Heteromys nelsoni,Nelson's Spiny Pocket Mouse,EN,"GT, MX","Guatemala, Mexico"
+41642,Hylobatidae,Nomascus nasutus,Cao-vit Gibbon,CR,"CN, VN","China, Viet Nam"
+39803,Cercopithecidae,Presbytis chrysomelas,Bornean Banded Langur,CR,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+4651,Chinchillidae,Chinchilla chinchilla,Short-tailed Chinchilla,EN,CL,Chile
+4652,Chinchillidae,Chinchilla lanigera,Long-tailed Chinchilla,EN,CL,Chile
+5514,Muridae,Cremnomys elvira,Large Rock-rat,CR,IN,India
+5112,Emballonuridae,Coleura seychellensis,Seychelles Sheath-tailed Bat,CR,SC,Seychelles
+12820,Didelphidae,Marmosops handleyi,Handley's Slender Mouse Opossum,CR,CO,Colombia
+13703,Didelphidae,Monodelphis unistriata,Single-striped Opossum,CR,"AR, BR","Argentina, Brazil"
+2816,Sciuridae,Biswamoyopterus biswasi,Namdapha Flying Squirrel,CR,IN,India
+12592,Viverridae,Macrogalidia musschenbroekii,Sulawesi Civet,VU,ID,Indonesia
+21172,Suidae,Porcula salvania,Pygmy Hog,EN,IN,India
+40522,Caenolestidae,Caenolestes convelatus,Blackish Shrew Opossum,VU,"CO, EC","Colombia, Ecuador"
+18358,Indriidae,Propithecus diadema,Diademed Sifaka,CR,MG,Madagascar
+16676,Cricetidae,Peromyscus melanocarpus,Black-wristed Deer Mouse,EN,MX,Mexico
+11343,Vombatidae,Lasiorhinus krefftii,Northern Hairy-nosed Wombat,CR,AU,Australia
+42635,Cricetidae,Microtus umbrosus,Zempoaltepec Vole,EN,MX,Mexico
+9979,Vespertilionidae,Hesperoptenus tomesi,Large False Serotine,VU,"MY, TH","Malaysia, Thailand"
+12941,Cricetidae,Megadontomys nelsoni,Nelson's Giant Deer Mouse,EN,MX,Mexico
+12942,Cricetidae,Megadontomys thomasi,Thomas's Giant Deer Mouse,EN,MX,Mexico
+39779,Hylobatidae,Symphalangus syndactylus,Siamang,EN,"ID, MY, TH","Indonesia, Malaysia, Thailand"
+21293,Spalacidae,Tachyoryctes macrocephalus,Giant Mole Rat,EN,ET,Ethiopia
+6433,Macropodidae,Dendrolagus matschiei,Huon Tree Kangaroo,EN,PG,Papua New Guinea
+97250154,Spalacidae,Spalax istricus,Oltenia Blind Mole-rat,CR,RO,Romania
+136653,Didelphidae,Thylamys karimii,Karimi's Fat-tailed Mouse Opossum,VU,BR,Brazil
+8202,Lemuridae,Eulemur mongoz,Mongoose Lemur,CR,MG,Madagascar
+17978,Pontoporiidae,Pontoporia blainvillei,Franciscana,VU,"AR, BR, UY","Argentina, Brazil, Uruguay"
+20639,Phalangeridae,Spilocuscus rufoniger,Black-spotted Cuscus,CR,"ID, PG","Indonesia, Papua New Guinea"
+15106,Odobenidae,Odobenus rosmarus,Walrus,VU,"CA, GL, RU, SJ, US","Canada, Greenland, Russian Federation, Svalbard and Jan Mayen, United States of America"
+16747,Macropodidae,Petrogale persephone,Proserpine Rock Wallaby,EN,AU,Australia
+20688,Muridae,Srilankamys ohiensis,Ohiya Rat,VU,LK,Sri Lanka
+19391,Bovidae,Redunca fulvorufula,Mountain Reedbuck,EN,"BW, CM, ET, KE, LS, MZ, NG, SS, SZ, TZ, UG, ZA","Botswana, Cameroon, Ethiopia, Kenya, Lesotho, Mozambique, Nigeria, South Sudan, Eswatini, Tanzania, United Republic of, Uganda, South Africa"
+19474,Sciuridae,Rheithrosciurus macrotis,Tufted Ground Squirrel,VU,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+16846,Phalangeridae,Phalanger lullulae,Woodlark Cuscus,EN,PG,Papua New Guinea
+6296,Dasyuridae,Dasyurus viverrinus,Eastern Quoll,EN,AU,Australia
+14941,Lorisidae,Nycticebus pygmaeus,Pygmy Slow Loris,EN,"KH, LA, VN","Cambodia, Lao People's Democratic Republic, Viet Nam"
+17831,Cricetidae,Podoxymys roraimae,Roraima Mouse,VU,VE,"Venezuela, Bolivarian Republic of"
+18656,Pteropodidae,Pteralopex anceps,Bougainville Monkey-faced Bat,EN,"PG, SB","Papua New Guinea, Solomon Islands"
+19790,Soricidae,Ruwenzorisorex suncoides,Ruwenzori Shrew,VU,"BI, CD, RW, UG","Burundi, Congo, The Democratic Republic of the, Rwanda, Uganda"
+180990825,Hipposideridae,Hipposideros pomona,Andersen's Roundleaf Bat,EN,IN,India
+3127,Bovidae,Bubalus mindorensis,Tamaraw,CR,PH,Philippines
+136443,Phalangeridae,Spilocuscus wilsoni,Blue-eyed Spotted Cuscus,CR,ID,Indonesia
+136420,Emballonuridae,Saccopteryx antioquensis,Antioquian Sac-winged Bat,EN,CO,Colombia
+62007,Chrysochloridae,Amblysomus marleyi,Marley's Golden Mole,EN,ZA,South Africa
+5608,Soricidae,Crocidura miya,Sri Lankan Long-tailed Shrew,EN,LK,Sri Lanka
+41209,Leporidae,Nesolagus timminsi,Annamite Striped Rabbit,EN,"LA, VN","Lao People's Democratic Republic, Viet Nam"
+18657,Pteropodidae,Pteralopex atrata,Guadalcanal Monkey-faced Bat,EN,SB,Solomon Islands
+22066,Ursidae,Tremarctos ornatus,Spectacled Bear,VU,"BO, CO, EC, PE, VE","Bolivia, Plurinational State of, Colombia, Ecuador, Peru, Venezuela, Bolivarian Republic of"
+8211,Lemuridae,Eulemur flavifrons,Blue-eyed Black Lemur,CR,MG,Madagascar
+13948,Vespertilionidae,Murina tenebrosa,Gloomy Tube-nosed Bat,CR,JP,Japan
+84487939,Vespertilionidae,Murina balaensis,Bala Tube-nosed Bat,CR,TH,Thailand
+5749,Chrysochloridae,Cryptochloris zyli,Van Zyl's Golden Mole,EN,ZA,South Africa
+9918,Bovidae,Arabitragus jayakari,Arabian Tahr,EN,"AE, OM","United Arab Emirates, Oman"
+11979,Tenrecidae,Microgale mergulus,Web-footed Tenrec,VU,MG,Madagascar
+44703,Cervidae,Muntiacus vuquangensis,Large-antlered Muntjac,CR,"KH, LA, VN","Cambodia, Lao People's Democratic Republic, Viet Nam"
+18731,Pteropodidae,Desmalopex leucopterus,White-winged Flying Fox,VU,PH,Philippines
+6678,Heteromyidae,Dipodomys ingens,Giant Kangaroo Rat,EN,US,United States of America
+2785,Potoroidae,Bettongia penicillata,Woylie,CR,AU,Australia
+20165,Macropodidae,Setonix brachyurus,Quokka,VU,AU,Australia
+136628,Tenrecidae,Microgale jobihely,Northern Shrew Tenrec,EN,MG,Madagascar
+14560,Pteropodidae,Neopteryx frosti,Small-toothed Fruit Bat,EN,ID,Indonesia
+15955,Felidae,Panthera tigris,Tiger,EN,"BD, BT, CN, ID, IN, LA, MM, MY, NP, RU, TH","Bangladesh, Bhutan, China, Indonesia, India, Lao People's Democratic Republic, Myanmar, Malaysia, Nepal, Russian Federation, Thailand"
+62015,Tenrecidae,Microgale jenkinsae,Jenkins' Shrew Tenrec,EN,MG,Madagascar
+11619,Lepilemuridae,Lepilemur microdon,Small-toothed Sportive Lemur,EN,MG,Madagascar
+136543,Echimyidae,Trinomys moojeni,NA,EN,BR,Brazil
+136596,Soricidae,Crocidura hikmiya,Sinharaja White-toothed Shrew,EN,LK,Sri Lanka
+14126,Vespertilionidae,Myotis capaccinii,Long-fingered Bat,VU,"AD, AL, BA, BG, CY, DZ, ES, FR, GR, HR, IL, IQ, IR, IT, JO, LB, MA, ME, MK, RO, RS, SI, SY, TR, VA","Andorra, Albania, Bosnia and Herzegovina, Bulgaria, Cyprus, Algeria, Spain, France, Greece, Croatia, Israel, Iraq, Iran, Islamic Republic of, Italy, Jordan, Lebanon, Morocco, Montenegro, North Macedonia, Romania, Serbia, Slovenia, Syrian Arab Republic, Turkey, Holy See (Vatican City State)"
+18360,Indriidae,Propithecus candidus,Silky Sifaka,CR,MG,Madagascar
+19751,Pteropodidae,Rousettus spinalatus,Bare-backed Rousette,VU,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+19409,Cricetidae,Reithrodontomys hirsutus,Hairy Harvest Mouse,VU,MX,Mexico
+10589,Erinaceidae,Hylomys parvus,Dwarf Gymnure,VU,ID,Indonesia
+13508501,Cercopithecidae,Rhinopithecus strykeri,Myanmar Snub-nosed Monkey,CR,"CN, MM","China, Myanmar"
+19418,Cricetidae,Reithrodontomys tenuirostris,Narrow-nosed Harvest Mouse,EN,"GT, MX","Guatemala, Mexico"
+6794,Macropodidae,Dorcopsis atrata,Black Dorcopsis,CR,PG,Papua New Guinea
+13449,Cricetidae,Microtus oaxacensis,Tarabundi Vole,EN,MX,Mexico
+165925,Nesomyidae,Voalavo antsahabensis,Eastern Voalavo,EN,MG,Madagascar
+39547,Eupleridae,Eupleres major,Western Falanouc,EN,MG,Madagascar
+18359,Indriidae,Propithecus edwardsi,Milne-Edward's Sifaka,EN,MG,Madagascar
+16569,Peramelidae,Perameles bougainville,Western Barred Bandicoot,VU,AU,Australia
+136773,Muridae,Uromys boeadii,Biak Giant Rat,CR,ID,Indonesia
+9917,Bovidae,Nilgiritragus hylocrius,Nilgiri Tahr,EN,IN,India
+16851,Phalangeridae,Phalanger matanim,Telefomin Cuscus,CR,PG,Papua New Guinea
+18352,Indriidae,Propithecus tattersalli,Golden-crowned Sifaka,CR,MG,Madagascar
+12077,Heteromyidae,Heteromys spectabilis,Jaliscan Spiny Pocket Mouse,EN,MX,Mexico
+41711,Balaenidae,Eubalaena japonica,North Pacific Right Whale,EN,"CA, JP, KR, MX, RU, TW, US","Canada, Japan, Korea, Republic of, Mexico, Russian Federation, Taiwan, Province of China, United States of America"
+4265,Cervidae,Panolia eldii,Eld's Deer,EN,"CN, IN, KH, LA, MM","China, India, Cambodia, Lao People's Democratic Republic, Myanmar"
+4828,Chrysochloridae,Chrysospalax trevelyani,Giant Golden Mole,EN,ZA,South Africa
+136330,Nesomyidae,Nesomys lambertoni,Lowland Red Forest Rat,EN,MG,Madagascar
+10141,Hipposideridae,Hipposideros lamottei,Lamotte's Roundleaf Bat,CR,GN,Guinea
+16971461,Cheirogaleidae,Microcebus gerpi,Gerp's Mouse Lemur,CR,MG,Madagascar
+10954,Muridae,Kadarsanomys sodyi,Javan Bamboo Rat,EN,ID,Indonesia
+16799,Cricetidae,Phaenomys ferrugineus,Rio de Janeiro Arboreal Rat,EN,BR,Brazil
+46251646,Cheirogaleidae,Microcebus marohita,Marohita Mouse Lemur,CR,MG,Madagascar
+19680,Vespertilionidae,Rhogeessa genowaysi,Genoways's Yellow Bat,EN,MX,Mexico
+14106,Soricidae,Myosorex eisentrauti,Eisentraut's Mouse Shrew,CR,GQ,Equatorial Guinea
+8212,Lemuridae,Eulemur macaco,Black Lemur,EN,MG,Madagascar
+1564,Cricetidae,Anotomys leander,Ecuadoran Ichthyomyine,EN,"CO, EC","Colombia, Ecuador"
+23077,Cricetidae,Wilfredomys oenax,Greater Wilfred's Mouse,EN,"BR, UY","Brazil, Uruguay"
+29742,Cervidae,Rangifer tarandus,Reindeer,VU,"CA, FI, GL, MN, NO, RU, US","Canada, Finland, Greenland, Mongolia, Norway, Russian Federation, United States of America"
+22805,Muridae,Uromys porculus,Guadalcanal Rat,CR,SB,Solomon Islands
+11618,Lepilemuridae,Lepilemur leucopus,White-footed Sportive Lemur,EN,MG,Madagascar
+18354,Indriidae,Propithecus verreauxi,Verreaux's Sifaka,CR,MG,Madagascar
+18305,Cricetidae,Proedromys bedfordi,Duke Of Bedford's Vole,VU,CN,China
+16664,Cricetidae,Peromyscus guardia,Angel Island Mouse,CR,MX,Mexico
+16690,Cricetidae,Peromyscus slevini,Catalina Deer Mouse,CR,MX,Mexico
+8668,Eupleridae,Fossa fossana,Spotted Fanaloka,VU,MG,Madagascar
+11505,Cebidae,Leontopithecus chrysopygus,Black Lion Tamarin,EN,BR,Brazil
+21975,Chlamyphoridae,Tolypeutes tricinctus,Brazilian Three-banded Armadillo,VU,BR,Brazil
+39775,Hylobatidae,Nomascus concolor,Black Crested Gibbon,CR,"CN, LA, VN","China, Lao People's Democratic Republic, Viet Nam"
+18357,Indriidae,Propithecus deckenii,Van der Decken’s Sifa,CR,MG,Madagascar
+136470,Muridae,Uromys emmae,Emma's Giant Rat,CR,ID,Indonesia
+16655,Cricetidae,Peromyscus caniceps,Monserrat Island Deermouse,CR,MX,Mexico
+16687,Cricetidae,Peromyscus pseudocrinitus,Coronados Deer Mouse,CR,MX,Mexico
+16668,Cricetidae,Peromyscus interparietalis,San Lorenzo Deermouse,CR,MX,Mexico
+16657,Cricetidae,Peromyscus dickeyi,Dickey’s Deermou,CR,MX,Mexico
+82345696,Rhinopomatidae,Rhinopoma hadramauticum,Yemeni Mouse-tailed Bat,EN,YE,Yemen
+13936,Vespertilionidae,Murina aenea,Bronze Tube-nosed Bat,VU,"BN, ID, MY, TH","Brunei Darussalam, Indonesia, Malaysia, Thailand"
+8199,Lemuridae,Eulemur coronatus,Crowned Lemur,EN,MG,Madagascar
+22803,Muridae,Uromys imperator,Emperor Rat,CR,SB,Solomon Islands
+42591,Geomyidae,Heterogeomys lanius,Big Pocket Gopher,CR,MX,Mexico
+18118,Muridae,Praomys morio,Cameroon Soft-furred Mouse,EN,"CM, GQ","Cameroon, Equatorial Guinea"
+21982,Molossidae,Tomopeas ravus,Blunt-eared Bat,EN,PE,Peru
+6793,Bovidae,Dorcatragus megalotis,Beira,VU,"DJ, SO","Djibouti, Somalia"
+13945,Vespertilionidae,Murina rozendaali,Gilded Tube-nosed Bat,VU,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+136316,Nesomyidae,Eliurus petteri,Petter's Tuft-tailed Rat,EN,MG,Madagascar
+16873,Cheirogaleidae,Phaner parienti,Sambirano Fork-marked Lemur,EN,MG,Madagascar
+3747,Canidae,Canis rufus,Red Wolf,CR,0,0
+41690,Viverridae,Arctictis binturong,Binturong,VU,"BD, BT, CN, ID, IN, KH, LA, MM, MY, NP, PH, TH, VN","Bangladesh, Bhutan, China, Indonesia, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Nepal, Philippines, Thailand, Viet Nam"
+29680,Mustelidae,Vormela peregusna,Marbled Polecat,VU,"AF, AM, AZ, BG, CN, EG, GE, GR, IL, IQ, IR, KZ, LB, ME, MK, MN, PK, RO, RS, RU, SY, TM, TR, UA, UZ","Afghanistan, Armenia, Azerbaijan, Bulgaria, China, Egypt, Georgia, Greece, Israel, Iraq, Iran, Islamic Republic of, Kazakhstan, Lebanon, Montenegro, North Macedonia, Mongolia, Pakistan, Romania, Serbia, Russian Federation, Syrian Arab Republic, Turkmenistan, Turkey, Ukraine, Uzbekistan"
+9001,Capromyidae,Geocapromys brownii,Brown's Hutia,EN,JM,Jamaica
+16874,Cheirogaleidae,Phaner pallescens,Pale Fork-marked Lemur,EN,MG,Madagascar
+18732,Pteropodidae,Pteropus livingstonii,Livingstone's Flying Fox,CR,KM,Comoros
+22037,Cercopithecidae,Trachypithecus geei,Gee’s Golden Lang,EN,"BT, IN","Bhutan, India"
+12815,Didelphidae,Marmosa xerophila,Dryland Mouse Opossum,VU,"CO, VE","Colombia, Venezuela, Bolivarian Republic of"
+179234,Tarsiidae,Tarsius tumpara,Siau Island Tarsier,CR,ID,Indonesia
+16426,Muridae,Paulamys naso,Paula’s Long-nosed R,EN,ID,Indonesia
+13960,Muridae,Mus famulus,Bonhote’s Mou,EN,IN,India
+80224148,Hipposideridae,Hipposideros turpis,Lesser Leaf-nosed Bat,EN,JP,Japan
+136821,Cricetidae,Reithrodontomys bakeri,Baker's Small-toothed Harvest Mouse,EN,MX,Mexico
+19597,Cercopithecidae,Rhinopithecus bieti,Black Snub-nosed Monkey,EN,CN,China
+7624,Nesomyidae,Eliurus penicillatus,White-tipped Tuft-tailed Rat,EN,MG,Madagascar
+14199,Vespertilionidae,Myotis scotti,Scott's Mouse-eared Bat,VU,ET,Ethiopia
+17028,Phocoenidae,Phocoena sinus,Vaquita,CR,MX,Mexico
+136400,Echimyidae,Phyllomys lundi,NA,EN,BR,Brazil
+22570,Cricetidae,Tylomys bullaris,Chiapan Climbing Rat,CR,MX,Mexico
+16875,Cheirogaleidae,Phaner electromontis,Amber Mountain Fork-marked Lemur,EN,MG,Madagascar
+6437,Macropodidae,Dendrolagus mbaiso,Dingiso,EN,ID,Indonesia
+20185,Sminthidae,Sicista armenica,Armenian Birch Mouse,CR,AM,Armenia
+11621,Lepilemuridae,Lepilemur ruficaudatus,Red-tailed Sportive Lemur,CR,MG,Madagascar
+88088852,Natalidae,Chilonatalus micropus,Cuban Lesser Funnel-eared Bat,VU,"CO, DO, JM","Colombia, Dominican Republic, Jamaica"
+4219,Cercopithecidae,Cercopithecus hamlyni,Owl-faced Monkey,VU,"CD, RW","Congo, The Democratic Republic of the, Rwanda"
+6232,Cervidae,Dama mesopotamica,Persian Fallow Deer,EN,IR,"Iran, Islamic Republic of"
+12753,Cercopithecidae,Mandrillus leucophaeus,Drill,EN,"CM, GQ, NG","Cameroon, Equatorial Guinea, Nigeria"
+15933,Hominidae,Pan troglodytes,Chimpanzee,EN,"AO, BI, CD, CF, CG, CI, CM, GA, GH, GN, GQ, GW, LR, ML, NG, RW, SL, SN, SS, TZ, UG","Angola, Burundi, Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, Gabon, Ghana, Guinea, Equatorial Guinea, Guinea-Bissau, Liberia, Mali, Nigeria, Rwanda, Sierra Leone, Senegal, South Sudan, Tanzania, United Republic of, Ugand"
+15932,Hominidae,Pan paniscus,Bonobo,EN,CD,"Congo, The Democratic Republic of the"
+29485,Vespertilionidae,Murina ryukyuana,Ryukyu Tube-nosed Bat,EN,JP,Japan
+163023599,Cheirogaleidae,Cheirogaleus medius,Fat-tailed Dwarf Lemur,VU,MG,Madagascar
+39896,Hylobatidae,Nomascus siki,Southern White-cheeked Gibbon,CR,"LA, VN","Lao People's Democratic Republic, Viet Nam"
+136732,Macropodidae,Dendrolagus notatus,NA,EN,PG,Papua New Guinea
+16971489,Lepilemuridae,Lepilemur hollandorum,Holland's Sportive Lemur,CR,MG,Madagascar
+163313848,Cheirogaleidae,Microcebus manitatra,Bemanasy Mouse Lemur,CR,MG,Madagascar
+12551,Cercopithecidae,Macaca fascicularis,Common Long-tailed Macaque,EN,"BD, BN, ID, IN, KH, LA, MM, MY, PH, SG, TH, TL, VN","Bangladesh, Brunei Darussalam, Indonesia, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Philippines, Singapore, Thailand, Timor-Leste, Viet Nam"
+12948,Pteropodidae,Megaerops wetmorei,White-collared Fruit Bat,VU,"ID, MY, PH","Indonesia, Malaysia, Philippines"
+139,Pteropodidae,Acerodon jubatus,Golden-capped Fruit Bat,EN,PH,Philippines
+39961,Atelidae,Ateles hybridus,Brown Spider Monkey,CR,"CO, VE","Colombia, Venezuela, Bolivarian Republic of"
+2045,Muridae,Archboldomys luzonensis,Isarog Shrew Mouse,VU,PH,Philippines
+23327,Muridae,Zyzomys palatalis,Carpentarian Rock-rat,CR,AU,Australia
+11162,Macropodidae,Lagorchestes hirsutus,Rufous Hare-wallaby,VU,AU,Australia
+136843,Lepilemuridae,Lepilemur ahmansonorum,NA,CR,MG,Madagascar
+2787,Potoroidae,Bettongia tropica,Northern Bettong,EN,AU,Australia
+14143,Vespertilionidae,Myotis atacamensis,Atacama Myotis,EN,"CL, PE","Chile, Peru"
+1154,Furipterididae,Amorphochilus schnablii,Smoky Bat,VU,"CL, EC, PE","Chile, Ecuador, Peru"
+13393,Potamogalidae,Micropotamogale lamottei,Nimba Otter Shrew,VU,"CI, GN, LR","Côte d'Ivoire, Guinea, Liberi"
+4153,Bovidae,Cephalophus zebra,Zebra Duiker,VU,"CI, GN, LR, SL","Côte d'Ivoire, Guinea, Liberia, Sierra Leon"
+21154,Sciuridae,Sundasciurus fraterculus,Fraternal Squirrel,VU,ID,Indonesia
+14821,Muridae,Niviventer hinpoon,Limestone Niviventer,EN,TH,Thailand
+136709,Lepilemuridae,Lepilemur tymerlachsoni,Nosy Be Sportive Lemur,CR,MG,Madagascar
+84457541,Pteropodidae,Dyacopterus rickarti,Rickart's Dyak Fruit Bat,EN,PH,Philippines
+11506,Cebidae,Leontopithecus rosalia,Golden Lion Tamarin,EN,BR,Brazil
+40643,Cebidae,Leontopithecus chrysomelas,Golden-headed Lion Tamarin,EN,BR,Brazil
+41573,Cheirogaleidae,Microcebus berthae,Madame Berthe's Mouse Lemur,CR,MG,Madagascar
+67359375,Vespertilionidae,Neoromicia roseveari,Rosevear's Serotine,EN,"GN, LR","Guinea, Liberia"
+21143,Soricidae,Suncus fellowesgordoni,Ceylon Pygmy Shrew,EN,LK,Sri Lanka
+6990,Echimyidae,Phyllomys unicolor,Unicolored Tree Rat,CR,BR,Brazil
+29473,Pteropodidae,Pteralopex taki,New Georgian Monkey-faced Bat,VU,SB,Solomon Islands
+136399,Nesomyidae,Brachytarsomys villosa,Hairy-tailed Tree Rat,VU,MG,Madagascar
+45071,Muridae,Otomys burtoni,Burton’s Vlei R,EN,CM,Cameroon
+19596,Cercopithecidae,Rhinopithecus roxellana,Golden Snub-nosed Monkey,EN,CN,China
+6635,Viverridae,Diplogale hosei,Hose's Civet,VU,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+45954378,Soricidae,Myosorex jejei,Kahuzi Swamp Shrew,VU,CD,"Congo, The Democratic Republic of the"
+5610,Soricidae,Crocidura nicobarica,Nicobar Shrew,CR,IN,India
+41572,Cheirogaleidae,Microcebus sambiranensis,Sambirano Mouse Lemur,EN,MG,Madagascar
+5953,Canidae,Cuon alpinus,Dhole,EN,"BD, BT, CN, ID, IN, KH, LA, MM, MY, NP, TH","Bangladesh, Bhutan, China, Indonesia, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Nepal, Thailand"
+5633,Soricidae,Crocidura harenna,Harenna Shrew,CR,ET,Ethiopia
+14592,Cricetidae,Neotoma nelsoni,Nelson's Woodrat,CR,MX,Mexico
+16971425,Cheirogaleidae,Microcebus macarthurii,MacArthur's Mouse Lemur,EN,MG,Madagascar
+16695,Cricetidae,Peromyscus winkelmanni,Coalcoman Deer Mouse,EN,MX,Mexico
+5224,Muridae,Conilurus penicillatus,Brush-tailed Rabbit-rat,VU,"AU, PG","Australia, Papua New Guinea"
+39794,Cercopithecidae,Macaca pagensis,Pagai Island Macaque,CR,ID,Indonesia
+45047,Soricidae,Myosorex kihaulei,Kihaule's Mouse Shrew,EN,TZ,"Tanzania, United Republic of"
+136684,Cheirogaleidae,Mirza zaza,Northern Giant Mouse Lemur,VU,MG,Madagascar
+21456,Emballonuridae,Taphozous hildegardeae,Hildegarde's Tomb Bat,EN,"KE, TZ","Kenya, Tanzania, United Republic of"
+14107,Soricidae,Myosorex geata,Geata Mouse Shrew,EN,TZ,"Tanzania, United Republic of"
+136379,Soricidae,Crocidura trichura,Christmas Island Shrew,CR,CX,Christmas Island
+19762,Sciuridae,Rubrisciurus rubriventer,Sulawesi Giant Squirrel,VU,ID,Indonesia
+20333,Muridae,Solomys ponceleti,Poncelet's Giant Rat,CR,"PG, SB","Papua New Guinea, Solomon Islands"
+11034,Bovidae,Kobus megaceros,Nile Lechwe,EN,"ET, SS","Ethiopia, South Sudan"
+68336601,Eupleridae,Eupleres goudotii,Eastern Falanouc,VU,MG,Madagascar
+163024481,Cheirogaleidae,Microcebus tanosi,Anosy Mouse Lemur,EN,MG,Madagascar
+11933,Herpestidae,Liberiictis kuhni,Liberian Mongoose,VU,"CI, LR","Côte d'Ivoire, Liberi"
+22042,Cercopithecidae,Semnopithecus vetulus,Purple-faced Langur,EN,LK,Sri Lanka
+11503,Cebidae,Leontopithecus caissara,Black-faced Lion Tamarin,EN,BR,Brazil
+41759,Ziphiidae,Mesoplodon perrini,Perrin's Beaked Whale,EN,US,United States of America
+4074,Cebidae,Sapajus xanthosternos,Buff-headed Capuchin,CR,BR,Brazil
+2279,Atelidae,Ateles geoffroyi,Geoffroy’s Spider Monk,EN,"BZ, CR, GT, HN, MX, NI, PA, SV","Belize, Costa Rica, Guatemala, Honduras, Mexico, Nicaragua, Panama, El Salvador"
+15419,Delphinidae,Orcaella brevirostris,Irrawaddy Dolphin,EN,"BD, BN, ID, IN, KH, LA, MM, MY, PH, SG, TH, VN","Bangladesh, Brunei Darussalam, Indonesia, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Philippines, Singapore, Thailand, Viet Nam"
+7014,Muridae,Echiothrix leucura,Northern Sulawesi Echiothrix,EN,ID,Indonesia
+4829,Chrysochloridae,Chrysospalax villosus,Rough-haired Golden Mole,VU,ZA,South Africa
+21661,Bovidae,Tetracerus quadricornis,Four-horned Antelope,VU,"IN, NP","India, Nepal"
+136645,Lepilemuridae,Lepilemur sahamalazensis,Sahamalaza Sportive Lemur,CR,MG,Madagascar
+17026,Otariidae,Phocarctos hookeri,New Zealand Sea Lion,EN,"AU, NZ","Australia, New Zealand"
+14549,Otariidae,Neophoca cinerea,Australian Sea Lion,EN,AU,Australia
+136389,Soricidae,Cryptotis nelsoni,Nelson's Small Eared Shrew,CR,MX,Mexico
+16692,Cricetidae,Peromyscus stephani,San Esteban Deermouse,CR,MX,Mexico
+3590,Otariidae,Callorhinus ursinus,Northern Fur Seal,VU,"CA, JP, KP, KR, MX, RU, US","Canada, Japan, Korea, Democratic People's Republic of, Korea, Republic of, Mexico, Russian Federation, United States of America"
+10552,Hylobatidae,Hylobates pileatus,Pileated Gibbon,EN,"KH, LA, TH","Cambodia, Lao People's Democratic Republic, Thailand"
+22839,Phyllostomidae,Vampyressa melissa,Melissa's Yellow-eared Bat,VU,"CO, EC, PE","Colombia, Ecuador, Peru"
+136824,Natalidae,Natalus jamaicensis,Jamaican Greater Funnel-eared Bat,CR,JM,Jamaica
+136224,Soricidae,Suncus aequatorius,Taita Dwarf Shrew,EN,KE,Kenya
+10831,Iniidae,Inia geoffrensis,Amazon River Dolphin,EN,"BO, BR, CO, EC, PE, VE","Bolivia, Plurinational State of, Brazil, Colombia, Ecuador, Peru, Venezuela, Bolivarian Republic of"
+7950,Equidae,Equus grevyi,Grevy's Zebra,EN,"ET, KE","Ethiopia, Kenya"
+13215,Capromyidae,Mesocapromys angelcabrerai,Cabrera's Hutia,CR,CU,Cuba
+4140,Bovidae,Cephalophus jentinki,Jentink's Duiker,EN,"CI, GN, LR, SL","Côte d'Ivoire, Guinea, Liberia, Sierra Leon"
+15090,Octodontidae,Octodon pacificus,NA,CR,CL,Chile
+136519,Pteropodidae,Notopteris neocaledonica,New Caledonia Blossom Bat,EN,NC,New Caledonia
+2447,Cervidae,Axis kuhlii,Bawean Deer,CR,ID,Indonesia
+11620,Lepilemuridae,Lepilemur mustelinus,Weasel Sportive Lemur,VU,MG,Madagascar
+6429,Macropodidae,Dendrolagus goodfellowi,Goodfellow's Tree Kangaroo,EN,"ID, PG","Indonesia, Papua New Guinea"
+7083,Pteropodidae,Eidolon dupreanum,Madagascan Fruit Bat,VU,MG,Madagascar
+3748,Canidae,Canis simensis,Ethiopian Wolf,EN,ET,Ethiopia
+4137,Bovidae,Cephalophus adersi,Aders' Duiker,VU,"KE, TZ","Kenya, Tanzania, United Republic of"
+136392,Didelphidae,Monodelphis reigi,Reig's Opossum,VU,VE,"Venezuela, Bolivarian Republic of"
+8968,Bovidae,Nanger dama,Dama Gazelle,CR,"ML, NE, TD","Mali, Niger, Chad"
+40644,Cebidae,Saguinus bicolor,Pied Tamarin,CR,BR,Brazil
+1151,Bovidae,Ammotragus lervia,Aoudad,VU,"DZ, EG, LY, MA, ML, MR, NE, SD, TD, TN","Algeria, Egypt, Libya, Morocco, Mali, Mauritania, Niger, Sudan, Chad, Tunisia"
+136771,Lepilemuridae,Lepilemur grewcockorum,Grewcock's Sportive Lemur,CR,MG,Madagascar
+12421,Mustelidae,Lutra sumatrana,Hairy-nosed Otter,EN,"ID, KH, MY, TH, VN","Indonesia, Cambodia, Malaysia, Thailand, Viet Nam"
+14003,Phyllostomidae,Musonycteris harrisoni,Banana Bat,VU,MX,Mexico
+120659170,Hylobatidae,Nomascus annamensis,Northern Yellow-cheeked Crested Gibbon,EN,"KH, LA, VN","Cambodia, Lao People's Democratic Republic, Viet Nam"
+13219,Cricetidae,Mesocricetus auratus,Golden Hamster,EN,"SY, TR","Syrian Arab Republic, Turkey"
+10846,Sciuridae,Iomys sipora,Mentawi Flying Squirrel,EN,ID,Indonesia
+9002,Capromyidae,Geocapromys ingrahami,Bahaman Hutia,VU,BS,Bahamas
+3160,Bovidae,Budorcas taxicolor,Takin,VU,"BT, CN, IN, MM","Bhutan, China, India, Myanmar"
+136534,Pteropodidae,Styloctenium mindorensis,Mindoro Stripe-faced Fruit Bat,EN,PH,Philippines
+41579,Indriidae,Avahi unicolor,Sambirano Woolly Lemur,CR,MG,Madagascar
+45054,Muridae,Hylomyscus grandis,Mt Oku Hylomyscus,EN,CM,Cameroon
+97249856,Spalacidae,Spalax graecus,Balkan Blind Mole Rat,VU,"MD, RO, UA","Moldova, Republic of, Romania, Ukraine"
+138,Pteropodidae,Acerodon humilis,Talaud Fruit Bat,EN,ID,Indonesia
+10054,Cervidae,Hippocamelus bisulcus,Patagonian Huemul,EN,"AR, CL","Argentina, Chile"
+8205,Lemuridae,Eulemur cinereiceps,White-collared Lemur,CR,MG,Madagascar
+2477,Balaenopteridae,Balaenoptera musculus,Blue Whale,EN,"AO, AR, AU, BD, BM, BR, CA, CC, CK, CL, CO, CR, CV, DJ, EC, EH, ES, FJ, FK, FO, FR, GB, GL, GS, GT, ID, IE, IN, IR, IS, JP, KE, KI, KM, LK, MA, MG, MM, MR, MU, MV, MX, MY, MZ, NA, NC, NF, NI, NO, NR, NZ, OM, PA, PE, PG, PH, PK, PM, PT, PW, RE, RU, SB, SC, SJ, SN, SO, SV, TF, TH, TL, TV, TZ, US, UY, VU, YE, ZA","Angola, Argentina, Australia, Bangladesh, Bermuda, Brazil, Canada, Cocos (Keeling) Islands, Cook Islands, Chile, Colombia, Costa Rica, Cabo Verde, Djibouti, Ecuador, Western Sahara, Spain, Fiji, Falkland Islands (Malvinas), Faroe Islands, France, United Kingdom of Great Britain and Northern Ireland, Greenland, South Georgia and the South Sandwich Islands, Guatemala, Indonesia, Ireland, India, Iran, Islamic Republic of, Iceland, Japan, Kenya, Kiribati, Comoros, Sri Lanka, Morocco, Madagascar, Myanmar, Mauritania, Mauritius, Maldives, Mexico, Malaysia, Mozambique, Namibia, New Caledonia, Norfolk Island, Nicaragua, Norway, Nauru, New Zealand, Oman, Panama, Peru, Papua New Guinea, Philippines, Pakistan, Saint Pierre and Miquelon, Portugal, Palau, Réunion, Russian Federation, Solomon Islands, Seychelles, Svalbard and Jan Mayen, Senegal, Somalia, El Salvador, French Southern Territories, Thailand, Timor-Leste, Tuvalu, Tanzania, United Republic of, United States of America, Uruguay, Vanuatu, Yemen, South Afric"
+9676,Lemuridae,Hapalemur alaotrensis,Alaotra Reed Lemur,CR,MG,Madagascar
+6204,Phocidae,Cystophora cristata,Hooded Seal,VU,"CA, GL, IS, NO","Canada, Greenland, Iceland, Norway"
+41763,Equidae,Equus ferus,Przewalski's Horse,EN,CN,China
+16671,Cricetidae,Peromyscus madrensis,Tres Marias Deer Mouse,EN,MX,Mexico
+12556,Cercopithecidae,Macaca nigra,Celebes Crested Macaque,CR,ID,Indonesia
+10548,Hylobatidae,Hylobates lar,Lar Gibbon,EN,"ID, LA, MM, MY, TH","Indonesia, Lao People's Democratic Republic, Myanmar, Malaysia, Thailand"
+136520,Caviidae,Cavia intermedia,Santa Catarina’s Guinea P,CR,BR,Brazil
+39895,Hylobatidae,Nomascus leucogenys,Northern White-cheeked Gibbon,CR,"LA, VN","Lao People's Democratic Republic, Viet Nam"
+136335,Indriidae,Avahi cleesei,Bemaraha Woolly Lemur,CR,MG,Madagascar
+4227,Cercopithecidae,Allochrocebus preussi,Preuss’s Monk,EN,"CM, GQ, NG","Cameroon, Equatorial Guinea, Nigeria"
+136376,Lepilemuridae,Lepilemur aeeclis,Antafia Sportive Lemur,EN,MG,Madagascar
+136768,Pteropodidae,Eonycteris robusta,Philippine Dawn Bat,VU,PH,Philippines
+40765,Cricetidae,Nesoryzomys narboroughi,NA,VU,EC,Ecuador
+18744,Pteropodidae,Pteropus nitendiensis,Temotu Flying Fox,EN,SB,Solomon Islands
+41784,Cervidae,Axis porcinus,Hog Deer,EN,"BD, BT, IN, KH, NP, PK","Bangladesh, Bhutan, India, Cambodia, Nepal, Pakistan"
+16761,Macropodidae,Petrogale concinna,Nabarlek,EN,AU,Australia
+1087,Chrysochloridae,Neamblysomus gunningi,Gunning's Golden Mole,EN,ZA,South Africa
+4257,Cervidae,Rucervus duvaucelii,Barasingha,VU,"IN, NP","India, Nepal"
+39795,Cercopithecidae,Macaca siberu,Siberut Macaque,EN,ID,Indonesia
+1089,Chrysochloridae,Neamblysomus julianae,Juliana's Golden Mole,EN,ZA,South Africa
+51222063,Caenolestidae,Caenolestes sangay,NA,VU,EC,Ecuador
+5076,Hipposideridae,Coelops robinsoni,Malayan Tailless Leaf-nosed Bat,VU,"ID, MY","Indonesia, Malaysia"
+12945,Pteropodidae,Megaerops kusnotoi,Javan Tailless Fruit Bat,VU,ID,Indonesia
+13218,Capromyidae,Mesocapromys sanfelipensis,Little Earth Hutia,CR,CU,Cuba
+84457227,Pteropodidae,Desmalopex microleucopterus,Mindoro Mottle-winged Flying Fox,EN,PH,Philippines
+13895,Moschidae,Moschus chrysogaster,Alpine Musk Deer,EN,"BT, CN, IN, NP","Bhutan, China, India, Nepal"
+219,Felidae,Acinonyx jubatus,Cheetah,VU,"AO, BF, BJ, BW, CF, DZ, ET, IR, KE, ML, MZ, NA, NE, SS, TD, TZ, UG, ZA, ZM, ZW","Angola, Burkina Faso, Benin, Botswana, Central African Republic, Algeria, Ethiopia, Iran, Islamic Republic of, Kenya, Mali, Mozambique, Namibia, Niger, South Sudan, Chad, Tanzania, United Republic of, Uganda, South Africa, Zambia, Zimbabwe"
+20497,Sciuridae,Urocitellus brunneus,Northern Idaho Ground Squirrel,EN,US,United States of America
+4245,Cercopithecidae,Cercopithecus diana,Diana Monkey,EN,"CI, GN, LR, SL","Côte d'Ivoire, Guinea, Liberia, Sierra Leon"
+8975,Bovidae,Gazella spekei,Speke's Gazelle,EN,SO,Somalia
+40800,Ochotonidae,Ochotona hoffmanni,Hoffmann's Pika,EN,"MN, RU","Mongolia, Russian Federation"
+135446,Atelidae,Ateles fusciceps,Brown-headed Spider Monkey,EN,"CO, EC, PA","Colombia, Ecuador, Panama"
+210368667,Lepilemuridae,Lepilemur dorsalis,Gray’s Sportive Lem,EN,MG,Madagascar
+72261777,Procyonidae,Nasuella meridensis,Eastern Mountain Coati,EN,VE,"Venezuela, Bolivarian Republic of"
+136254,Lepilemuridae,Lepilemur randrianasoloi,Randrianasolo's Sportive Lemur,EN,MG,Madagascar
+13217,Capromyidae,Mesocapromys nanus,Dwarf Hutia,CR,CU,Cuba
+19533,Rhinolophidae,Rhinolophus cognatus,Andaman Horseshoe Bat,EN,IN,India
+6427,Macropodidae,Dendrolagus dorianus,Doria's Tree Kangaroo,VU,PG,Papua New Guinea
+40582,Pseudocheiridae,Pseudochirops coronatus,Reclusive Ringtail,VU,ID,Indonesia
+46205559,Erethizontidae,Coendou speratus,Dwarf Porcupine,EN,BR,Brazil
+12375,Lorisidae,Loris tardigradus,Red Slender Loris,EN,LK,Sri Lanka
+12907,Muridae,Maxomys whiteheadi,Whitehead’s Sundaic Maxom,VU,"BN, ID, MY, TH","Brunei Darussalam, Indonesia, Malaysia, Thailand"
+2828,Cervidae,Blastocerus dichotomus,Marsh Deer,VU,"AR, BO, BR, PE, PY","Argentina, Bolivia, Plurinational State of, Brazil, Peru, Paraguay"
+13896,Moschidae,Moschus fuscus,Black Musk Deer,EN,"BT, CN, IN, MM, NP","Bhutan, China, India, Myanmar, Nepal"
+14018,Mustelidae,Mustela lutreola,European Mink,CR,"ES, FR, RO, RU, UA","Spain, France, Romania, Russian Federation, Ukraine"
+3129,Bovidae,Bubalus arnee,Wild Water Buffalo,EN,"BT, IN, KH, MM, NP, TH","Bhutan, India, Cambodia, Myanmar, Nepal, Thailand"
+12832,Sciuridae,Marmota sibirica,Mongolian Marmot,EN,"CN, MN, RU","China, Mongolia, Russian Federation"
+136362,Muridae,Apomys camiguinensis,Camiguin Forest Mouse,VU,PH,Philippines
+16889,Dasyuridae,Phascogale pirata,Northern Brush-tailed Phascogale,VU,AU,Australia
+20472,Sciuridae,Spermophilus citellus,European Souslik,EN,"AT, BG, CZ, GR, HU, MD, MK, RO, RS, SK, TR, UA","Austria, Bulgaria, Czechia, Greece, Hungary, Moldova, Republic of, North Macedonia, Romania, Serbia, Slovakia, Turkey, Ukraine"
+39871,Cercopithecidae,Trachypithecus poliocephalus,Cat Ba Hooded Black Leaf Monkey,CR,VN,Viet Nam
+13901,Moschidae,Moschus leucogaster,Himalayan Muskdeer,EN,"BT, CN, IN, NP","Bhutan, China, India, Nepal"
+22043,Cercopithecidae,Trachypithecus delacouri,Delacour's Langur,CR,VN,Viet Nam
+41986,Ochotonidae,Ochotona argentata,Silver Pika,EN,CN,China
+14097,Pteropodidae,Myonycteris brachycephala,Sao Tomé Collared Fruit Ba,EN,ST,Sao Tome and Principe
+18765,Pteropodidae,Pteropus tuberculatus,Vanikoro Flying Fox,EN,SB,Solomon Islands
+19823,Cebidae,Saguinus oedipus,Cotton-headed Tamarin,CR,CO,Colombia
+20428,Spalacidae,Spalax arenarius,Sandy Mole Rat,EN,UA,Ukraine
+10329,Cervidae,Hydropotes inermis,Water Deer,VU,"CN, KP, KR","China, Korea, Democratic People's Republic of, Korea, Republic of"
+21873,Macropodidae,Thylogale calabyi,Calaby's Pademelon,EN,PG,Papua New Guinea
+18306,Felidae,Caracal aurata,African Golden Cat,VU,"AO, CD, CF, CG, CI, CM, GA, GH, GN, GQ, LR, NG, SL, UG","Angola, Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, Gabon, Ghana, Guinea, Equatorial Guinea, Liberia, Nigeria, Sierra Leone, Ugand"
+12555,Cercopithecidae,Macaca nemestrina,Southern Pig-tailed Macaque,EN,"BN, ID, MY, TH","Brunei Darussalam, Indonesia, Malaysia, Thailand"
+21175,Suidae,Sus cebifrons,Visayan Warty Pig,CR,PH,Philippines
+39761,Lorisidae,Nycticebus javanicus,Javan Slow Loris,CR,ID,Indonesia
+136743,Caenolestidae,Caenolestes condorensis,Andean Caenolestid,VU,EC,Ecuador
+13894,Moschidae,Moschus berezovskii,Forest Musk Deer,EN,"CN, VN","China, Viet Nam"
+136609,Lepilemuridae,Lepilemur milanoii,Daraina Sportive Lemur,EN,MG,Madagascar
+5826,Ctenomyidae,Ctenomys sociabilis,Social Tuco-tuco,CR,AR,Argentina
+128073282,Hylobatidae,Nomascus gabriellae,Red-cheeked Gibbon,EN,"KH, LA, VN","Cambodia, Lao People's Democratic Republic, Viet Nam"
+14209,Vespertilionidae,Myotis vivesi,Fish-eating Bat,VU,MX,Mexico
+136643,Moschidae,Moschus anhuiensis,Anhui Musk Deer,EN,CN,China
+136537,Cheirogaleidae,Microcebus bongolavensis,Bongolava Mouse Lemur,EN,MG,Madagascar
+136569,Cercopithecidae,Macaca munzala,Arunachal Macaque,EN,IN,India
+136714,Octodontidae,Tympanoctomys loschalchalerosorum,Chalchalero Viscacha Rat,CR,AR,Argentina
+12310,Cercopithecidae,Lophocebus aterrimus,Black Mangabey,VU,CD,"Congo, The Democratic Republic of the"
+136750,Moschidae,Moschus cupreus,Kashmir Muskdeer,EN,"AF, IN, PK","Afghanistan, India, Pakistan"
+136311,Lepilemuridae,Lepilemur wrightae,Wright's Sportive Lemur,EN,MG,Madagascar
+4665,Phyllostomidae,Chiroderma improvisum,Guadeloupean Big-eyed Bat,EN,"GP, MS","Guadeloupe, Montserrat"
+20489,Sciuridae,Xerospermophilus perotensis,Perote Ground Squirrel,EN,MX,Mexico
+16971518,Lepilemuridae,Lepilemur scottorum,Scott's Sportive Lemur,EN,MG,Madagascar
+16572,Peramelidae,Perameles gunnii,Eastern Barred Bandicoot,VU,AU,Australia
+12754,Cercopithecidae,Mandrillus sphinx,Mandrill,VU,"CG, CM, GA, GQ","Congo, Cameroon, Gabon, Equatorial Guinea"
+8206,Lemuridae,Eulemur collaris,Collared Brown Lemur,EN,MG,Madagascar
+13143,Ursidae,Melursus ursinus,Sloth Bear,VU,"IN, LK, NP","India, Sri Lanka, Nepal"
+136677,Lepilemuridae,Lepilemur petteri,Petter's Sportive Lemur,EN,MG,Madagascar
+14294,Bovidae,Nemorhaedus baileyi,Red Goral,VU,"CN, IN, MM","China, India, Myanmar"
+136662,Lepilemuridae,Lepilemur betsileo,Betsileo Sportive Lemur,EN,MG,Madagascar
+29622,Cervidae,Mazama pandora,Yucatan Brown Brocket,VU,"BZ, GT, MX","Belize, Guatemala, Mexico"
+18880,Cricetidae,Punomys lemminus,Puna Mouse,VU,PE,Peru
+12559,Cercopithecidae,Macaca silenus,Lion-tailed Macaque,EN,IN,India
+39853,Cercopithecidae,Trachypithecus francoisi,François’s Lan,EN,"CN, VN","China, Viet Nam"
+136731,Lepilemuridae,Lepilemur ankaranensis,Ankarana Sportive Lemur,EN,MG,Madagascar
+8834,Eupleridae,Galidictis grandidieri,Grandidier’s Vontsi,EN,MG,Madagascar
+136263,Lepilemuridae,Lepilemur fleuretae,Madame Fleurette’s Sportive Lem,EN,MG,Madagascar
+15330,Macropodidae,Onychogalea fraenata,Bridled Nailtail Wallaby,VU,AU,Australia
+10053,Cervidae,Hippocamelus antisensis,Taruca,VU,"AR, BO, CL, PE","Argentina, Bolivia, Plurinational State of, Chile, Peru"
+41778,Tayassuidae,Tayassu pecari,White-lipped Peccary,VU,"AR, BO, BR, BZ, CO, CR, EC, GF, GT, GY, HN, MX, NI, PA, PE, PY, SR, VE","Argentina, Bolivia, Plurinational State of, Brazil, Belize, Colombia, Costa Rica, Ecuador, French Guiana, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, Peru, Paraguay, Suriname, Venezuela, Bolivarian Republic of"
+41211,Muridae,Praomys obscurus,NA,EN,NG,Nigeria
+7960,Equidae,Equus zebra,Mountain Zebra,VU,"AO, NA, ZA","Angola, Namibia, South Africa"
+13897,Moschidae,Moschus moschiferus,Siberian Musk Deer,VU,"CN, KP, KR, KZ, MN, RU","China, Korea, Democratic People's Republic of, Korea, Republic of, Kazakhstan, Mongolia, Russian Federation"
+39888,Hylobatidae,Hylobates muelleri,Bornean Gibbon,EN,ID,Indonesia
+18741,Pteropodidae,Pteropus molossinus,Pohnpei Flying Fox,EN,FM,"Micronesia, Federated States of "
+12553,Cercopithecidae,Macaca maura,Moor Macaque,EN,ID,Indonesia
+85043053,Pteropodidae,Pteropus pelagicus,Chuuk Flying Fox,EN,FM,"Micronesia, Federated States of "
+136315,Delphinidae,Orcaella heinsohni,Australian Snubfin Dolphin,VU,AU,Australia
+6675,Heteromyidae,Dipodomys elator,Texas Kangaroo Rat,VU,US,United States of America
+136472,Suidae,Babyrousa togeanensis,Togian Islands Babirusa,EN,ID,Indonesia
+14176,Vespertilionidae,Myotis lucifugus,Little Brown Bat,EN,"CA, US","Canada, United States of America"
+22103,Trichechidae,Trichechus manatus,American Manatee,VU,"BQ, BR, BS, BZ, CO, CR, CU, CW, DO, GF, GT, GY, HN, JM, KY, MX, NI, PA, PR, SR, TT, US, VE, VG, VI","Bonaire, Sint Eustatius and Saba, Brazil, Bahamas, Belize, Colombia, Costa Rica, Cuba, Curaçao, Dominican Republic, French Guiana, Guatemala, Guyana, Honduras, Jamaica, Cayman Islands, Mexico, Nicaragua, Panama, Puerto Rico, Suriname, Trinidad and Tobago, United States of America, Venezuela, Bolivarian Republic of, Virgin Islands, British, Virgin Islands, U.S"
+115591937,Cricetidae,Sigmodon alleni,Allen's Cotton Rat,VU,MX,Mexico
+11790,Leporidae,Lepus flavigularis,Tehuantepec Jackrabbit,EN,MX,Mexico
+6436,Macropodidae,Dendrolagus spadix,Lowlands Tree Kangaroo,VU,PG,Papua New Guinea
+21473,Tapiridae,Tapirus pinchaque,Mountain Tapir,EN,"CO, EC, PE","Colombia, Ecuador, Peru"
+14709,Cricetidae,Nesoryzomys swarthi,Santiago Galapagos Mouse,VU,EC,Ecuador
+19416,Cricetidae,Reithrodontomys spectabilis,Cozumel Harvest Mouse,CR,MX,Mexico
+2888,Bovidae,Bos javanicus,Banteng,EN,"ID, KH, LA, MM, MY, TH, VN","Indonesia, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Thailand, Viet Nam"
+16697,Cricetidae,Peromyscus zarhynchus,Chiapan Deer Mouse,VU,MX,Mexico
+39890,Hylobatidae,Hylobates funereus,Northern Gray Gibbon,EN,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+11793,Leporidae,Lepus hainanus,Hainan Hare,EN,CN,China
+14707,Cricetidae,Nesoryzomys fernandinae,Fernandina Rice Rat,VU,EC,Ecuador
+136761,Lepilemuridae,Lepilemur hubbardorum,Hubbard's Sportive Lemur,EN,MG,Madagascar
+10863,Peramelidae,Isoodon auratus,Golden Bandicoot,VU,AU,Australia
+8203,Lemuridae,Eulemur rubriventer,Red-bellied Lemur,VU,MG,Madagascar
+39876,Hylobatidae,Hoolock hoolock,Western Hoolock Gibbon,EN,"BD, IN, MM","Bangladesh, India, Myanmar"
+11617,Lepilemuridae,Lepilemur edwardsi,Milne-Edwards's Sportive Lemur,EN,MG,Madagascar
+4216,Cercopithecidae,Cercopithecus dryas,Dryas Monkey,EN,CD,"Congo, The Democratic Republic of the"
+44172,Bovidae,Taurotragus derbianus,Giant Eland,VU,"CF, CM, GN, ML, SN, SS, TD","Central African Republic, Cameroon, Guinea, Mali, Senegal, South Sudan, Chad"
+4037,Felidae,Catopuma badia,Borneo Bay Cat,EN,"ID, MY","Indonesia, Malaysia"
+9760,Ursidae,Helarctos malayanus,Sun Bear,VU,"BD, BN, ID, IN, KH, LA, MM, MY, TH, VN","Bangladesh, Brunei Darussalam, Indonesia, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Thailand, Viet Nam"
+136264,Muridae,Bullimus gamay,Camiguin Bullimus,VU,PH,Philippines
+13572,Cercopithecidae,Miopithecus talapoin,Southern Talapoin Monkey,VU,"AO, CD","Angola, Congo, The Democratic Republic of the"
+5142,Cercopithecidae,Colobus angolensis,Angolan Colobus,VU,"AO, BI, CD, KE, MW, MZ, RW, TZ, UG, ZM","Angola, Burundi, Congo, The Democratic Republic of the, Kenya, Malawi, Mozambique, Rwanda, Tanzania, United Republic of, Uganda, Zambia"
+10550,Hylobatidae,Hylobates moloch,Silvery Gibbon,EN,ID,Indonesia
+39889,Hylobatidae,Hylobates abbotti,Abbott’s Gray Gibb,EN,"ID, MY","Indonesia, Malaysia"
+13216,Capromyidae,Mesocapromys auritus,Large-eared Hutia,EN,CU,Cuba
+10547,Hylobatidae,Hylobates klossii,Kloss’s Gibb,EN,ID,Indonesia
+6683,Heteromyidae,Dipodomys nitratoides,Fresno Kangaroo Rat,VU,US,United States of America
+10543,Hylobatidae,Hylobates agilis,Agile Gibbon,EN,"ID, MY, TH","Indonesia, Malaysia, Thailand"
+12568,Cercopithecidae,Macaca nigrescens,Gorontalo Macaque,VU,ID,Indonesia
+41547,Atelidae,Ateles chamek,Black-faced Black Spider Monkey,EN,"BO, BR, PE","Bolivia, Plurinational State of, Brazil, Peru"
+39874,Cercopithecidae,Trachypithecus germaini,Indochinese Silvered Langur,EN,"KH, LA, MM, TH, VN","Cambodia, Lao People's Democratic Republic, Myanmar, Thailand, Viet Nam"
+2150,Cricetidae,Arvicola sapidus,Southern Water Vole,VU,"ES, FR, PT","Spain, France, Portugal"
+39879,Hylobatidae,Hylobates albibarbis,Bornean White-bearded Gibbon,EN,ID,Indonesia
+22732,Felidae,Panthera uncia,Snow Leopard,VU,"AF, BT, CN, IN, KG, KZ, MN, NP, PK, RU, TJ, UZ","Afghanistan, Bhutan, China, India, Kyrgyzstan, Kazakhstan, Mongolia, Nepal, Pakistan, Russian Federation, Tajikistan, Uzbekistan"
+136796,Lepilemuridae,Lepilemur otto,Otto's Sportive Lemur,EN,MG,Madagascar
+41707,Viverridae,Viverra megaspila,Large-spotted Civet,EN,"KH, LA, MM, MY, TH","Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Thailand"
+12520,Felidae,Lynx pardinus,Iberian Lynx,EN,ES,Spain
+2478,Balaenopteridae,Balaenoptera physalus,Fin Whale,VU,"AO, AQ, AR, AU, BE, BM, BR, BV, CA, CL, CN, CV, CY, DE, DK, DZ, EC, EG, ES, FJ, FK, FO, FR, GB, GI, GL, GR, GS, HM, HR, IE, IL, IS, IT, JP, KP, KR, LB, LY, MA, MC, MG, MT, MU, MX, MZ, NA, NC, NL, NO, NZ, PE, PM, PT, RE, RU, SA, SC, SE, SH, SI, SJ, SY, TF, TN, TR, US, ZA","Angola, Antarctica, Argentina, Australia, Belgium, Bermuda, Brazil, Bouvet Island, Canada, Chile, China, Cabo Verde, Cyprus, Germany, Denmark, Algeria, Ecuador, Egypt, Spain, Fiji, Falkland Islands (Malvinas), Faroe Islands, France, United Kingdom of Great Britain and Northern Ireland, Gibraltar, Greenland, Greece, South Georgia and the South Sandwich Islands, Heard Island and McDonald Islands, Croatia, Ireland, Israel, Iceland, Italy, Japan, Korea, Democratic People's Republic of, Korea, Republic of, Lebanon, Libya, Morocco, Monaco, Madagascar, Malta, Mauritius, Mexico, Mozambique, Namibia, New Caledonia, Netherlands, Norway, New Zealand, Peru, Saint Pierre and Miquelon, Portugal, Réunion, Russian Federation, Saudi Arabia, Seychelles, Sweden, Saint Helena, Ascension and Tristan da Cunha, Slovenia, Svalbard and Jan Mayen, Syrian Arab Republic, French Southern Territories, Tunisia, Turkey, United States of America, South Afric"
+6682,Heteromyidae,Dipodomys stephensi,Stephens' Kangaroo Rat,VU,US,United States of America
+41571,Cheirogaleidae,Microcebus tavaratra,Tavaratra Mouse Lemur,VU,MG,Madagascar
+136603,Felidae,Neofelis diardi,Sunda Clouded Leopard,VU,"BN, ID, MY","Brunei Darussalam, Indonesia, Malaysia"
+175862145,Cercopithecidae,Trachypithecus phayrei,Phayre’s Leaf-monk,EN,"BD, CN, IN, LA, MM, TH, VN","Bangladesh, China, India, Lao People's Democratic Republic, Myanmar, Thailand, Viet Nam"
+136648,Cricetidae,Alticola olchonensis,Olkhon Mountain Vole,EN,RU,Russian Federation
+9673,Lemuridae,Hapalemur griseus,Eastern Lesser Bamboo Lemur,VU,MG,Madagascar
+14519,Felidae,Neofelis nebulosa,Clouded Leopard,VU,"BD, BT, CN, IN, KH, LA, MM, MY, NP, TH, VN","Bangladesh, Bhutan, China, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Nepal, Thailand, Viet Nam"
+12548,Cercopithecidae,Macaca arctoides,Stump-tailed Macaque,VU,"CN, IN, KH, LA, MM, MY, TH, VN","China, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Thailand, Viet Nam"
+4151,Bovidae,Cephalophus spadix,Abbott's Duiker,EN,TZ,"Tanzania, United Republic of"
+2282,Atelidae,Ateles marginatus,White-cheeked Spider Monkey,EN,BR,Brazil
+6978,Echimyidae,Phyllomys brasiliensis,Red-nosed Tree Rat,EN,BR,Brazil
+21870,Macropodidae,Thylogale brunii,Dusky Pademelon,VU,"ID, PG","Indonesia, Papua New Guinea"
+12558,Cercopithecidae,Macaca radiata,Bonnet Macaque,VU,IN,India
+2276,Atelidae,Ateles belzebuth,White-bellied Spider Monkey,EN,"BR, CO, EC, PE, VE","Brazil, Colombia, Ecuador, Peru, Venezuela, Bolivarian Republic of"
+118355648,Hylobatidae,Hoolock tianxing,Skywalker Hoolock Gibbon,EN,"CN, MM","China, Myanmar"
+22104,Trichechidae,Trichechus senegalensis,African Manatee,VU,"AO, BJ, CD, CG, CI, CM, GA, GH, GM, GN, GQ, GW, LR, ML, MR, NE, NG, SL, SN, TD, TG","Angola, Benin, Congo, The Democratic Republic of the, Congo, Côte d'Ivoire, Cameroon, Gabon, Ghana, Gambia, Guinea, Equatorial Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Sierra Leone, Senegal, Chad, Tog"
+2283,Atelidae,Ateles paniscus,Guiana Spider Monkey,VU,"BR, GF, GY, SR","Brazil, French Guiana, Guyana, Suriname"
+20295,Dasyuridae,Sminthopsis butleri,Butler's Dunnart,VU,AU,Australia
+41754,Phocoenidae,Neophocaena asiaeorientalis,Narrow-ridged Finless Porpoise,EN,"CN, JP, KR, TW","China, Japan, Korea, Republic of, Taiwan, Province of China"
+9056,Geomyidae,Geomys tropicalis,Tropical Pocket Gopher,EN,MX,Mexico
+190871,Delphinidae,Sotalia fluviatilis,Tucuxi,EN,"BR, CO, EC, PE","Brazil, Colombia, Ecuador, Peru"
+22102,Trichechidae,Trichechus inunguis,Amazonian Manatee,VU,"BR, CO, EC, PE","Brazil, Colombia, Ecuador, Peru"
+20476,Sciuridae,Urocitellus townsendii,Townsend's Ground Squirrel,VU,US,United States of America
+39793,Cercopithecidae,Macaca ochreata,Booted Macaque,VU,ID,Indonesia
+39792,Cercopithecidae,Macaca leonina,Northern Pig-tailed Macaque,VU,"BD, CN, IN, KH, LA, MM, TH, VN","Bangladesh, China, India, Cambodia, Lao People's Democratic Republic, Myanmar, Thailand, Viet Nam"
+15954,Felidae,Panthera pardus,Leopard,VU,"AF, AM, AO, AZ, BD, BF, BI, BJ, BT, BW, CD, CF, CG, CI, CM, CN, DJ, EG, ER, ET, GA, GH, GN, GQ, GW, ID, IN, IQ, IR, KE, KH, LK, LR, ML, MM, MW, MY, MZ, NA, NE, NG, NP, OM, PK, RU, RW, SA, SD, SL, SN, SO, SS, SZ, TD, TH, TM, TR, TZ, UG, YE, ZA, ZM, ZW","Afghanistan, Armenia, Angola, Azerbaijan, Bangladesh, Burkina Faso, Burundi, Benin, Bhutan, Botswana, Congo, The Democratic Republic of the, Central African Republic, Congo, Côte d'Ivoire, Cameroon, China, Djibouti, Egypt, Eritrea, Ethiopia, Gabon, Ghana, Guinea, Equatorial Guinea, Guinea-Bissau, Indonesia, India, Iraq, Iran, Islamic Republic of, Kenya, Cambodia, Sri Lanka, Liberia, Mali, Myanmar, Malawi, Malaysia, Mozambique, Namibia, Niger, Nigeria, Nepal, Oman, Pakistan, Russian Federation, Rwanda, Saudi Arabia, Sudan, Sierra Leone, Senegal, Somalia, South Sudan, Eswatini, Chad, Thailand, Turkmenistan, Turkey, Tanzania, United Republic of, Uganda, Yemen, South Africa, Zambia, Zimbabw"
+15951,Felidae,Panthera leo,Lion,VU,"AO, BF, BJ, BW, CD, CF, CM, ET, IN, KE, MW, MZ, NA, NE, NG, SD, SN, SO, SS, SZ, TD, TZ, UG, ZA, ZM, ZW","Angola, Burkina Faso, Benin, Botswana, Congo, The Democratic Republic of the, Central African Republic, Cameroon, Ethiopia, India, Kenya, Malawi, Mozambique, Namibia, Niger, Nigeria, Sudan, Senegal, Somalia, South Sudan, Eswatini, Chad, Tanzania, United Republic of, Uganda, South Africa, Zambia, Zimbabwe"
+12305,Mustelidae,Lontra provocax,Southern River Otter,EN,"AR, CL","Argentina, Chile"
+12303,Mustelidae,Lontra felina,Marine Otter,EN,"AR, CL, PE","Argentina, Chile, Peru"
+8833,Eupleridae,Galidictis fasciata,Broad-striped Vontsira,VU,MG,Madagascar
+21874,Macropodidae,Thylogale browni,New Guinea Pademelon,VU,"ID, PG","Indonesia, Papua New Guinea"
+22824,Ursidae,Ursus thibetanus,Asiatic Black Bear,VU,"AF, BD, BT, CN, IN, IR, JP, KH, KP, KR, LA, MM, NP, PK, RU, TH, TW, VN","Afghanistan, Bangladesh, Bhutan, China, India, Iran, Islamic Republic of, Japan, Cambodia, Korea, Democratic People's Republic of, Korea, Republic of, Lao People's Democratic Republic, Myanmar, Nepal, Pakistan, Russian Federation, Thailand, Taiwan, Province of China, Viet Nam"
+6090,Sciuridae,Cynomys parvidens,Utah Prairie Dog,EN,US,United States of America
+12827,Sciuridae,Marmota menzbieri,Menzbier's Marmot,VU,"KG, KZ, UZ","Kyrgyzstan, Kazakhstan, Uzbekistan"
+198920,Phocoenidae,Neophocaena phocaenoides,Indo-Pacific Finless Porpoise,VU,"AE, BD, BH, BN, CN, HK, ID, IN, IQ, IR, KH, KW, LK, MM, MY, PK, QA, SA, SG, TH, TW, VN","United Arab Emirates, Bangladesh, Bahrain, Brunei Darussalam, China, Hong Kong, Indonesia, India, Iraq, Iran, Islamic Republic of, Cambodia, Kuwait, Sri Lanka, Myanmar, Malaysia, Pakistan, Qatar, Saudi Arabia, Singapore, Thailand, Taiwan, Province of China, Viet Nam"
+15087,Octodontidae,Octodon bridgesi,Bridges's Degu,VU,"AR, CL","Argentina, Chile"
+18113,Muridae,Praomys hartwigi,Hartwig's Soft-furred Mouse,VU,CM,Cameroon
+4162,Delphinidae,Cephalorhynchus hectori,Hector's Dolphin,EN,NZ,New Zealand
+2461,Suidae,Babyrousa babyrussa,Hairy Babirusa,VU,ID,Indonesia
+136446,Suidae,Babyrousa celebensis,Sulawesi Babirusa,VU,ID,Indonesia
+2891,Bovidae,Bos frontalis,Gaur,VU,"BT, CN, IN, KH, LA, MM, MY, NP, TH, VN","Bhutan, China, India, Cambodia, Lao People's Democratic Republic, Myanmar, Malaysia, Nepal, Thailand, Viet Nam"
+118355453,Hylobatidae,Hoolock leuconedys,Eastern Hoolock Gibbon,VU,MM,Myanmar
+12563,Cercopithecidae,Macaca tonkeana,Tonkean Macaque,VU,ID,Indonesia
+21356,Sciuridae,Neotamias bulleri,Buller's Chipmunk,VU,MX,Mexico
+14256,Capromyidae,Mesocapromys melanurus,Black-tailed Hutia,VU,CU,Cuba
+12570,Cercopithecidae,Macaca hecki,Heck's Macaque,VU,ID,Indonesia
