@@ -1,8 +1,8 @@
 #===================================================================================================================================
 # Load basic packages 
 #===================================================================================================================================
-library(sf); library(terra); library(ggplot2); library(dplyr); library(tidyr); library(tmap); 
-library(stringr); library(mapview); library(readr)
+library(sf); library(terra); library(ggplot2); library(dplyr); library(tidyr); library(tmap); library(plotly);
+library(stringr); library(mapview); library(readr); library(rnaturalearth); library(rnaturalearthdata)
 #mapviewOptions(basemaps = "Esri.WorldImagery")
 #===================================================================================================================================
 # Grant EDGE Priority list - Remove white spaces from the .csv file
@@ -38,6 +38,7 @@ table(iucn_small_mamm_priority$category)
 # Load India borders
 ind_adm = read_sf("C:/Tejas_Uni_Goe/PhD/12_Beyond_PhD/AIGrant_2024/02_PAs/IN_ABh.shp") %>% st_make_valid() %>% 
           st_transform(3857) %>% mutate(STATE = str_replace(STATE, "ANDAMAN AND NICOBAR ISLANDS", "merged"))
+write_sf(ind_adm, "india_adm.shp")
 
 ind_states = read_sf("C:/Tejas_Uni_Goe/PhD/04_Data/02_Chapter2_India/01_RS_GIS/03_Administrative_Units/gadm36_IND_1/gadm36_IND_1.shp") %>% 
                   st_make_valid() %>% st_transform(3857) 
@@ -81,43 +82,64 @@ protected_areas_IN = read_sf("C:/Tejas_Uni_Goe/PhD/12_Beyond_PhD/Science_PolicyF
 #===================================================================================================================================
 # Species richness score 
 #===================================================================================================================================
-spec_richness = read_sf("C:/Tejas_Uni_Goe/PhD/12_Beyond_PhD/Science_PolicyForum/Final_maps/HKB_Final_Score.gpkg") %>% 
-                st_transform(3857) %>% st_intersection(priority_states)
+#spec_richness = read_sf("C:/Tejas_Uni_Goe/PhD/12_Beyond_PhD/Science_PolicyForum/Final_maps/HKB_Final_Score.gpkg") %>% 
+#                st_transform(3857) %>% st_intersection(priority_states)
+
+#===================================================================================================================================
+# Land cover data (Downloaded from GEE)
+#===================================================================================================================================
+treecover = rast("C:/Tejas_Uni_Goe/PhD/12_Beyond_PhD/Rewild_fonseca_species_conservation_fund/treecover_2019_NE.tif")
+landcover = rast("C:/Tejas_Uni_Goe/PhD/12_Beyond_PhD/Rewild_fonseca_species_conservation_fund/esa_2021_NE.tif")
 
 
+
+#===================================================================================================================================
+# Plot everything
+#===================================================================================================================================
+#-----------------------------------------------------------------------------------------------------------------------------------
+# Paper maps 
+inset_map = ggplot() +
+            geom_sf(data = ind_adm, fill = "lightgrey", color = "white") +  
+            coord_sf(xlim = c(6700000, 11000000), ylim = c(800000, 4500000), expand = FALSE) +
+            theme_void() + 
+            geom_rect(aes(xmin = 9800000, xmax = 11000000, ymin = 2500000, ymax = 3500000), 
+                                     color = "red", fill = "darkgreen", alpha = 0.2)
 
 # Base map with priority states
-ggplot() +
-  # Priority states borders (transparent fill)
-  geom_sf(data = priority_states, color = "grey", alpha = 0, linewidth = 0.2, linetype = "solid", size = 0.3) +
+main_map = ggplot() + 
+            geom_sf() +
+            coord_sf(xlim = c(9550000, 11000000), ylim = c(2200000, 3300000), expand = FALSE) +
+            # Priority states borders (transparent fill)
+            geom_sf(data = priority_states, color = "grey", alpha = 0, linewidth = 0.2, linetype = "solid", size = 0.3) +
+            
+            # Small mammal priority areas (filled by common_name)
+            geom_sf(data = iucn_small_mamm_priority_ind, aes(fill = common_name), color = NA, alpha = 0.4) +
+            
+            # Protected areas with border colors based on Type
+            geom_sf(data = protected_areas_IN, 
+                    aes(color = Type), # Border color mapped to Type
+                    fill = NA,         # No fill for protected areas
+                    linewidth = 0.3) + # Border width
   
-  # Small mammal priority areas (filled by common_name)
-  geom_sf(data = iucn_small_mamm_priority_ind, aes(fill = common_name), color = NA, alpha = 0.4) +
-  
-  # Protected areas with border colors based on Type
-  geom_sf(data = protected_areas_IN, 
-          aes(color = Type), # Border color mapped to Type
-          fill = NA,         # No fill for protected areas
-          linewidth = 0.3) + # Border width
-  
-  # Set manual colors for protected areas
-  scale_color_manual(values = c("National Park" = "darkred", 
-                                "Wildlife Sanctuary" = "darkblue")) +
-  
-  # Fill legend for small mammals
-  scale_fill_discrete(name = "Priority species") +
-  
-  # Add legend and theme adjustments
-  theme_minimal() +
-  theme(legend.position = "right") +
-  labs(color = "Protected Area Type", 
-       fill = "Small Mammal Priority Areas")
+            # Set manual colors for protected areas
+            scale_color_manual(values = c("National Park" = "darkred", 
+                                          "Wildlife Sanctuary" = "darkblue")) +
+            
+            # Fill legend for small mammals
+            scale_fill_discrete(name = "Priority species") +
+            
+            # Add legend and theme adjustments
+            theme_minimal() + 
+            theme(legend.position = "right", panel.grid = element_blank(), panel.background = element_blank(), 
+                  axis.text = element_blank()) +
+            labs(color = "Protected Area Type", 
+                 fill = "Small Mammal Priority Areas")
 
-
-
-
-
-
+# Add the inset map to the main map using annotation_custom
+main_map + annotation_custom(grob = ggplotGrob(inset_map), xmin = 9050000, xmax = 10250000, ymin = 3200000, ymax = 3600000)
+#-----------------------------------------------------------------------------------------------------------------------------------
+# Interactive 
+# interactive_map <- ggplotly(ggplot2::last_plot())
 
 
 

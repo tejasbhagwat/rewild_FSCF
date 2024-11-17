@@ -1,0 +1,42 @@
+// Downloading land-use land cover and forest cover data
+//=================================================================================================================================
+// Load priority states (Personal file. Zavadyas at the UN delete AP...)
+//=================================================================================================================================
+var priority_states = ee.FeatureCollection("projects/phd-chapters/assets/priority_states");
+//Map.centerObject(priority_states, 6);
+Map.addLayer(priority_states, {}, "priority_states");
+//=================================================================================================================================
+// Load ESA land cover and crop it to the states of interest in India 
+//=================================================================================================================================
+var esa_2021_NE = ee.ImageCollection("ESA/WorldCover/v200").first().clip(priority_states);
+var treecover_2019_NE = ee.Image('COPERNICUS/Landcover/100m/Proba-V-C3/Global/2019')
+                          .select("tree-coverfraction").clip(priority_states);
+
+Map.addLayer(esa_2021_NE, {bands: ['Map'],}, "esa_2021_NE");
+var imageVisParam = {"opacity":1,"bands":["tree-coverfraction"],"min":0,"max":100,"palette":["f2ff89","53b423"]};
+Map.addLayer(treecover_2019_NE, imageVisParam, "treecover_2019_NE");
+
+//=================================================================================================================================
+// Load Google buildings 
+//=================================================================================================================================
+// var buildings_NE = ee.ImageCollection('GOOGLE/Research/open-buildings-temporal/v1').toBands().select("building_presence").clip(priority_states)
+// Map.addLayer(buildings_NE, {color: "red"}, "buildings_NE");
+/*
+Export.image.toDrive({
+  image: treecover_2019_NE,
+  description: 'treecover_2019_NE',
+  scale: 100,
+  //crs: 'EPSG:32641',
+  region: priority_states,
+  maxPixels: 1e13
+});
+
+Export.image.toDrive({
+  image: esa_2021_NE,
+  description: 'esa_2021_NE',
+  scale: 100,
+  //crs: 'EPSG:32641',
+  region: priority_states,
+  maxPixels: 1e13
+});
+*/
